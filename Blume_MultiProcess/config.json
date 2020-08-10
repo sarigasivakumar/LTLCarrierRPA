@@ -21,10 +21,22 @@
       "URL": "https://my.yrc.com/tools/track/shipments?referenceNumberType=PRO",
       "USERNAME": "",
       "PASSWORD": "",
-      "CARRIER_CODE": "ANNU",
+      "CARRIER_CODE": "",
       "ENABLE_TEST_PRO_NUMBERS":"True",
       "PRO_NUMBER_PREFIXES":"{}",
       "TEST_PRO_NUMBERS":"{4377327147}",
+      "COMMENTS": "must match the repo names",
+      "ACTIVE_STATUS": "Y"
+    },
+    {
+      "NAME": "Dohrn",
+      "URL": "https://dohrn.com/tools/track-by-pro-number",
+      "USERNAME": "",
+      "PASSWORD": "",
+      "CARRIER_CODE": "",
+      "ENABLE_TEST_PRO_NUMBERS":"True",
+      "PRO_NUMBER_PREFIXES":"{}",
+      "TEST_PRO_NUMBERS":"{3205861000}",
       "COMMENTS": "must match the repo names",
       "ACTIVE_STATUS": "Y"
     }

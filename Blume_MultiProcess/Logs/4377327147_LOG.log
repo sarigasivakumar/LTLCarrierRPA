@@ -824,3 +824,22 @@ Status Updated:                                         07/10/2020
 08/10/2020 04:50:35 PM , [INFO]: reading from csv
 08/10/2020 04:50:35 PM , [INFO]: DLV
 08/10/2020 04:50:35 PM , [INFO]: DELIVERY DATE: 07/10/2020 - Signed By: Collier
+08/10/2020 05:05:22 PM , [INFO]: Pro Number formatting started
+08/10/2020 05:05:22 PM , [INFO]:                                                               Data
+Column1                                                           
+YRC Freight PRO #:                                    437-732714-7
+Trailer #:                                                   89599
+Pickup Date:                                            06/30/2020
+Delivered Date:                                         07/10/2020
+Appointment Date:                                       07/08/2020
+Appointment Time:                                    09:00 - 16:00
+Ship From:                                        Atlanta GA 30308
+Ship To:                                           Auburn CA 95603
+Status:             DELIVERY DATE: 07/10/2020 - Signed By: Collier
+Status Updated:                                         07/10/2020
+08/10/2020 05:05:22 PM , [INFO]: inside first try for reading config
+08/10/2020 05:05:22 PM , [INFO]: reading from csv
+08/10/2020 05:05:22 PM , [INFO]: DLV
+08/10/2020 05:05:22 PM , [INFO]: DELIVERY DATE: 07/10/2020 - Signed By: Collier
+08/10/2020 05:44:51 PM , [INFO]: Pro Number formatting started
+08/10/2020 05:48:38 PM , [INFO]: Pro Number formatting started
