@@ -29,7 +29,7 @@ class post:
 
         return eventMap, set(list(eventMap.keys()))
 
-    def YRCEvent(self, eventMap, eventSet, event, logger):
+    def Event(self, eventMap, eventSet, event, logger):
         print("HI EVENT")
         #substring = event.split("at")[0].lower() + "at"
         if event.lower() in eventSet:
@@ -40,7 +40,7 @@ class post:
             return eventMap["UNMAPPED_Event_Code".lower()], event
 
 
-    def YRCEventPost(self,pronumber,LTLpath, path, config_default, logger,kafka_publisher):
+    def EventPost(self,pronumber,LTLpath, path, config_default, logger,kafka_publisher):
         yrcdf = pd.read_csv(path+"\\"+pronumber+".csv")
         yrcdf = yrcdf.set_index("Column1")
         #print(yrcdf)
@@ -79,7 +79,7 @@ class post:
         postJson["trailerNumber"] = yrcdf.loc["Trailer #:"]['Data']
 
         eventMap, eventSet = self.getEventConstants(path)
-        postJson["eventCode"], postJson["eventName"] = self.YRCEvent(eventMap, eventSet,yrcdf.loc["Status:"]['Data'], logger)
+        postJson["eventCode"], postJson["eventName"] = self.Event(eventMap, eventSet,yrcdf.loc["Status:"]['Data'], logger)
         logger.info(postJson["eventCode"])
         logger.info(postJson["eventName"])
 
@@ -156,7 +156,7 @@ def main(pronumberList,cwd,ENV_MODE):
 
         post_obj = post()
         # print(i)
-        post_obj.YRCEventPost(pro,LTLpath,carrierPath,config_default,logger,kafka_publisher)
+        post_obj.EventPost(pro,LTLpath,carrierPath,config_default,logger,kafka_publisher)
     return multiprocessPath
 
 
