@@ -1,0 +1,1 @@
+Stores all the Container Information extracted from a terminal website.
