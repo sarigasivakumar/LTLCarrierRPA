@@ -1,0 +1,33 @@
+{
+  "ENV_MODE": {
+    "Value": "dev",
+    "Comments": "ENV_MODE can be qa/uat/prod/dev/si/demo, please make sure everything remains in lower case."
+  },
+  "ORIGINATOR_CODE": {
+    "Value": "",
+    "Comments": "The value of this can be null if no originator code is present."
+  },
+  "API_STRING": {
+    "Value": "https://<URL_ENV_MODE>apps.blumesolutions.com/visibility-api/v1/bv/originator/<ORIGINATOR_CODE>/carrier/<CARRIER_CODE>/container/<API_TEST_MODE>",
+    "Comments": "API to get input data, URL_ENV_MODE and API_TEST_MODE will be replaced by their corresponding values."
+  },
+  "EXECUTION_MODE": {
+    "API_TEST_MODE": "",
+    "Comments": "API_TEST_MODE- If data of the past 'x' days is needed mention this as an integer , else leave it blank."
+  },
+  "LTL_CARRIER_TO_PROCESS": [
+	{
+      "NAME": "YRC",
+      "URL": "https://my.yrc.com/tools/track/shipments?referenceNumberType=PRO",
+      "USERNAME": "",
+      "PASSWORD": "",
+      "CARRIER_CODE": "ANNU",
+      "ENABLE_TEST_PRO_NUMBERS":"True",
+      "PRO_NUMBER_PREFIXES":"{}",
+      "TEST_PRO_NUMBERS":"{4377327147}",
+      "COMMENTS": "must match the repo names",
+      "ACTIVE_STATUS": "Y"
+    }
+  
+  ]
+}
