@@ -41,13 +41,15 @@ class post:
 
 
     def EventPost(self,pronumber,LTLpath, path, config_default, logger,kafka_publisher):
-        yrcdf = pd.read_csv(path+"\\"+pronumber+".csv")
+        yrcdf = pd.read_csv(path+"\\\\"+pronumber+".csv")
         yrcdf = yrcdf.set_index("Column1")
         #print(yrcdf)
         #print(yrcdf.loc["Trailer #:"]['Data'])
+
         sys.path.append(LTLpath+"\\")
 
         import ShipmentEventBase as baseInfo
+    
         postJson = copy.deepcopy(baseInfo.baseInfo.shipmentEventBase)
         logger.info(yrcdf)
 
@@ -76,9 +78,11 @@ class post:
 
 
         postJson["proNumber"] = yrcdf.loc["YRC Freight PRO #:"]['Data']
+        
         postJson["trailerNumber"] = yrcdf.loc["Trailer #:"]['Data']
 
         eventMap, eventSet = self.getEventConstants(path)
+
         postJson["eventCode"], postJson["eventName"] = self.Event(eventMap, eventSet,yrcdf.loc["Status:"]['Data'], logger)
         logger.info(postJson["eventCode"])
         logger.info(postJson["eventName"])
@@ -87,12 +91,16 @@ class post:
             postJson["eventName"]="Delivered"
         postJson["eventDate"]=datetime.datetime.strptime(yrcdf.loc["Status:"]['Data'].split("-")[0].split(":")[1], " %m/%d/%Y ").strftime("%Y-%m-%d")  # .strftime("%m-%d-%Y ")
              #split statusto get date
+        
+
         postJson["signedBy"] = yrcdf.loc["Status:"]['Data'].split("-")[1].split(":")[1].strip()
         print(postJson["signedBy"])
+
         postJson["shipFrom"] = yrcdf.loc["Ship From:"]['Data']
         print(postJson["shipFrom"])
         postJson["shipTo"] = yrcdf.loc["Ship To:"]['Data']
         print(postJson["shipTo"])
+
         postJson["pickupDate"] = datetime.datetime.strptime(yrcdf.loc["Pickup Date:"]['Data'], "%m/%d/%Y").strftime(
             "%Y-%m-%d")
         postJson["deliveryDate"] = datetime.datetime.strptime(yrcdf.loc["Delivered Date:"]['Data'],
@@ -103,15 +111,19 @@ class post:
             "%Y-%m-%d")
         print(postJson["appointmentDate"])
         print(yrcdf.loc["Appointment Time:"]['Data'].split("-")[0])
+
         postJson["appointmentTimeStart"] = yrcdf.loc["Appointment Time:"]['Data'].split("-")[0]  # .strftime("%m-%d-%Y ")
         print(postJson["appointmentTimeStart"])
         postJson["appointmentTimeEnd"] = yrcdf.loc["Appointment Time:"]['Data'].split("-")[1]  # .strftime("%m-%d-%Y")
         print(postJson["appointmentTimeEnd"])
         print(postJson)
+        
+
         with open(path + "\\\\Results\\\\" + yrcdf.loc["YRC Freight PRO #:"]['Data'] + "resultsStep" + ".json",
                   'w') as f:
             json.dump(postJson, f)
         kafka_publisher.publish(postJson)
+       
 
 
 
@@ -140,7 +152,7 @@ def main(pronumberList,cwd,ENV_MODE):
     config_default = get_config(carrierPath, str(ENV_MODE).strip())
     from KafkaPublisher import KafkaPublisher
     kafka_publisher = KafkaPublisher(server=ast.literal_eval(config_default['kafka_server']),
-                                     topic=config_default['kafka_topic'])
+                                    topic=config_default['kafka_topic'])
 
 
     for pro in pronumberList:
