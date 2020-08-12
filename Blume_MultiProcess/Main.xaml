@@ -6,7 +6,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>850.4,2465.6</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>907.2,2728</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>ActivityBuilder_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -64,7 +64,7 @@
       <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="MainSequence" sap:VirtualizedContainerService.HintSize="699.2,2300.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="MainSequence" sap:VirtualizedContainerService.HintSize="884.8,2563.2" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="variable1" />
       <Variable x:TypeArguments="x:String" Name="jsonInput" />
@@ -78,7 +78,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="657.6,840" sap2010:WorkflowViewState.IdRef="TryCatch_1">
+    <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="843.2,840" sap2010:WorkflowViewState.IdRef="TryCatch_1">
       <TryCatch.Try>
         <Sequence sap:VirtualizedContainerService.HintSize="425.6,608.8" sap2010:WorkflowViewState.IdRef="Sequence_2">
           <sap:WorkflowViewStateService.ViewState>
@@ -110,17 +110,17 @@
         </Catch>
       </TryCatch.Catches>
     </TryCatch>
-    <Assign sap:VirtualizedContainerService.HintSize="657.6,64" sap2010:WorkflowViewState.IdRef="Assign_1">
+    <Assign sap:VirtualizedContainerService.HintSize="843.2,64" sap2010:WorkflowViewState.IdRef="Assign_1">
       <Assign.To>
         <OutArgument x:TypeArguments="scg:IEnumerable(x:Object)">[carriers_processing]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="scg:IEnumerable(x:Object)" xml:space="preserve">[(From item In carrierData.AsEnumerable() 
+        <InArgument x:TypeArguments="scg:List(njl:JToken)" xml:space="preserve">[(From item In carrierData.AsEnumerable() 
 Where item("ACTIVE_STATUS").ToString = "Y"  
-Select item(“NAME”)).ToList()]</InArgument>
+Select item("NAME”)).ToList()]</InArgument>
       </Assign.Value>
     </Assign>
-    <Assign sap:VirtualizedContainerService.HintSize="657.6,60" sap2010:WorkflowViewState.IdRef="Assign_2">
+    <Assign sap:VirtualizedContainerService.HintSize="843.2,60" sap2010:WorkflowViewState.IdRef="Assign_2">
       <Assign.To>
         <OutArgument x:TypeArguments="x:String">[ENV_MODE]</OutArgument>
       </Assign.To>
@@ -128,72 +128,83 @@ Select item(“NAME”)).ToList()]</InArgument>
         <InArgument x:TypeArguments="x:String">[jsonObject("ENV_MODE")("Value").ToString.ToLower]</InArgument>
       </Assign.Value>
     </Assign>
-    <If Condition="[carriers_processing.Count&gt;0]" sap:VirtualizedContainerService.HintSize="657.6,1124" sap2010:WorkflowViewState.IdRef="If_1">
+    <If Condition="[carriers_processing.Count&gt;0]" sap:VirtualizedContainerService.HintSize="843.2,1386.4" sap2010:WorkflowViewState.IdRef="If_1">
       <If.Then>
-        <ui:ForEach x:TypeArguments="njl:JObject" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="513.6,974.4" sap2010:WorkflowViewState.IdRef="ForEach`1_3" Values="[carrierData]">
+        <ui:ForEach x:TypeArguments="njl:JObject" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="699.2,1236.8" sap2010:WorkflowViewState.IdRef="ForEach`1_7" Values="[carrierData]">
           <ui:ForEach.Body>
             <ActivityAction x:TypeArguments="njl:JObject">
               <ActivityAction.Argument>
                 <DelegateInArgument x:TypeArguments="njl:JObject" Name="item" />
               </ActivityAction.Argument>
-              <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="478.4,840" sap2010:WorkflowViewState.IdRef="Sequence_5">
-                <Sequence.Variables>
-                  <Variable x:TypeArguments="x:Int32" Name="PRO_COUNT" />
-                </Sequence.Variables>
+              <Sequence sap:VirtualizedContainerService.HintSize="664,1082.4" sap2010:WorkflowViewState.IdRef="Sequence_8">
                 <sap:WorkflowViewStateService.ViewState>
                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
-                <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="436.8,62.4" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="[item(&quot;NAME&quot;).ToString]" />
-                <Sequence sap:VirtualizedContainerService.HintSize="436.8,152.8" sap2010:WorkflowViewState.IdRef="Sequence_4">
-                  <sap:WorkflowViewStateService.ViewState>
-                    <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-                    </scg:Dictionary>
-                  </sap:WorkflowViewStateService.ViewState>
-                  <Assign sap:VirtualizedContainerService.HintSize="262.4,60" sap2010:WorkflowViewState.IdRef="Assign_3">
-                    <Assign.To>
-                      <OutArgument x:TypeArguments="x:String">[carrierName]</OutArgument>
-                    </Assign.To>
-                    <Assign.Value>
-                      <InArgument x:TypeArguments="x:String">[item("NAME").ToString]</InArgument>
-                    </Assign.Value>
-                  </Assign>
-                </Sequence>
-                <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="436.8,92.8" sap2010:WorkflowViewState.IdRef="LogMessage_3" Level="Info" Message="[&quot;Starting process&quot;+item(&quot;NAME&quot;).ToString]" />
-                <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="436.8,319.2" sap2010:WorkflowViewState.IdRef="TryCatch_2">
-                  <TryCatch.Try>
-                    <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke Workflow File" sap:VirtualizedContainerService.HintSize="333.6,88" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_1" UnSafe="False" WorkflowFileName="[&quot;..\&quot;+item(&quot;NAME&quot;).ToString.Trim+&quot;\Main.xaml&quot;]">
-                      <ui:InvokeWorkflowFile.Arguments>
-                        <InArgument x:TypeArguments="x:String" x:Key="TEST_PRO_NUMBERS">[item("TEST_PRO_NUMBERS").ToString]</InArgument>
-                        <InArgument x:TypeArguments="x:String" x:Key="API_STRING">[jsonObject("API_STRING")("Value").ToString]</InArgument>
-                        <InArgument x:TypeArguments="x:String" x:Key="ENV_MODE">[ENV_MODE]</InArgument>
-                        <InArgument x:TypeArguments="x:String" x:Key="URL_ENV_MODE">[jsonObject("ENV_MODE")("Value").ToString]</InArgument>
-                        <InArgument x:TypeArguments="x:String" x:Key="API_TEST_MODE">[jsonObject("API_STRING")("Value").ToString]</InArgument>
-                        <InArgument x:TypeArguments="x:String" x:Key="URL">[item("URL").ToString]</InArgument>
-                        <InArgument x:TypeArguments="x:String" x:Key="ENABLE_TEST_PRO_NUMBERS">[item("ENABLE_TEST_PRO_NUMBERS").ToString]</InArgument>
-                        <InArgument x:TypeArguments="x:String" x:Key="CARRIER_NAME">[item("NAME").ToString]</InArgument>
-                      </ui:InvokeWorkflowFile.Arguments>
-                    </ui:InvokeWorkflowFile>
-                  </TryCatch.Try>
-                  <TryCatch.Catches>
-                    <Catch x:TypeArguments="s:Exception" sap:VirtualizedContainerService.HintSize="403.2,22.4" sap2010:WorkflowViewState.IdRef="Catch`1_2">
+                <If Condition="[carriers_processing.Contains(item(&quot;NAME&quot;))]" sap:VirtualizedContainerService.HintSize="622.4,989.6" sap2010:WorkflowViewState.IdRef="If_2">
+                  <If.Then>
+                    <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="478.4,840" sap2010:WorkflowViewState.IdRef="Sequence_7">
+                      <Sequence.Variables>
+                        <Variable x:TypeArguments="x:Int32" Name="PRO_COUNT" />
+                      </Sequence.Variables>
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
-                          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
-                      <ActivityAction x:TypeArguments="s:Exception">
-                        <ActivityAction.Argument>
-                          <DelegateInArgument x:TypeArguments="s:Exception" Name="exception" />
-                        </ActivityAction.Argument>
-                        <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="333.6,92.8" sap2010:WorkflowViewState.IdRef="LogMessage_4" Level="Error" Message="[&quot;couldnot import arguments from main to&quot; + item(&quot;NAME&quot;).ToString]" />
-                      </ActivityAction>
-                    </Catch>
-                  </TryCatch.Catches>
-                </TryCatch>
+                      <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="436.8,62.4" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="[item(&quot;NAME&quot;).ToString]" />
+                      <Sequence sap:VirtualizedContainerService.HintSize="436.8,152.8" sap2010:WorkflowViewState.IdRef="Sequence_6">
+                        <sap:WorkflowViewStateService.ViewState>
+                          <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                            <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                          </scg:Dictionary>
+                        </sap:WorkflowViewStateService.ViewState>
+                        <Assign sap:VirtualizedContainerService.HintSize="262.4,60" sap2010:WorkflowViewState.IdRef="Assign_4">
+                          <Assign.To>
+                            <OutArgument x:TypeArguments="x:String">[carrierName]</OutArgument>
+                          </Assign.To>
+                          <Assign.Value>
+                            <InArgument x:TypeArguments="x:String">[item("NAME").ToString]</InArgument>
+                          </Assign.Value>
+                        </Assign>
+                      </Sequence>
+                      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="436.8,92.8" sap2010:WorkflowViewState.IdRef="LogMessage_5" Level="Info" Message="[&quot;Starting process&quot;+item(&quot;NAME&quot;).ToString]" />
+                      <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="436.8,319.2" sap2010:WorkflowViewState.IdRef="TryCatch_3">
+                        <TryCatch.Try>
+                          <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke Workflow File" sap:VirtualizedContainerService.HintSize="333.6,88" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" UnSafe="False" WorkflowFileName="E:\LTLCarrierRPA\Dohrn-New\Main.xaml">
+                            <ui:InvokeWorkflowFile.Arguments>
+                              <InArgument x:TypeArguments="x:String" x:Key="TEST_PRO_NUMBERS">[item("TEST_PRO_NUMBERS").ToString]</InArgument>
+                              <InArgument x:TypeArguments="x:String" x:Key="API_STRING">[jsonObject("API_STRING")("Value").ToString]</InArgument>
+                              <InArgument x:TypeArguments="x:String" x:Key="ENV_MODE">[ENV_MODE]</InArgument>
+                              <InArgument x:TypeArguments="x:String" x:Key="URL_ENV_MODE">[jsonObject("ENV_MODE")("Value").ToString]</InArgument>
+                              <InArgument x:TypeArguments="x:String" x:Key="API_TEST_MODE">[jsonObject("API_STRING")("Value").ToString]</InArgument>
+                              <InArgument x:TypeArguments="x:String" x:Key="URL">[item("URL").ToString]</InArgument>
+                              <InArgument x:TypeArguments="x:String" x:Key="ENABLE_TEST_PRO_NUMBERS">[item("ENABLE_TEST_PRO_NUMBERS").ToString]</InArgument>
+                              <InArgument x:TypeArguments="x:String" x:Key="CARRIER_NAME">[item("NAME").ToString]</InArgument>
+                            </ui:InvokeWorkflowFile.Arguments>
+                          </ui:InvokeWorkflowFile>
+                        </TryCatch.Try>
+                        <TryCatch.Catches>
+                          <Catch x:TypeArguments="s:Exception" sap:VirtualizedContainerService.HintSize="403.2,22.4" sap2010:WorkflowViewState.IdRef="Catch`1_3">
+                            <sap:WorkflowViewStateService.ViewState>
+                              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                                <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                                <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                              </scg:Dictionary>
+                            </sap:WorkflowViewStateService.ViewState>
+                            <ActivityAction x:TypeArguments="s:Exception">
+                              <ActivityAction.Argument>
+                                <DelegateInArgument x:TypeArguments="s:Exception" Name="exception" />
+                              </ActivityAction.Argument>
+                              <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="333.6,92.8" sap2010:WorkflowViewState.IdRef="LogMessage_6" Level="Error" Message="[&quot;couldnot import arguments from main to&quot; + item(&quot;NAME&quot;).ToString]" />
+                            </ActivityAction>
+                          </Catch>
+                        </TryCatch.Catches>
+                      </TryCatch>
+                    </Sequence>
+                  </If.Then>
+                </If>
               </Sequence>
             </ActivityAction>
           </ui:ForEach.Body>
