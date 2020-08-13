@@ -1,4 +1,15 @@
 {
     "DELIVERY DATE: 07/10/2020 - Signed By: Collier":"DLV",
-    "UNMAPPED_Event_Code":"UME"
+
+
+    "DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY" : "DLV",
+    "Out For Delivery":"OD",
+    "Manifested":"MD",
+"Trailer Arrived":"TA",
+"Trailer Departed For Dohrn Mason City":"TD",
+"Manifested":"MD",
+"Picked Up":"PO",
+"Pickup Request Received":"PRR",
+"UNMAPPED_Event_Code":"UME"
+
 }
