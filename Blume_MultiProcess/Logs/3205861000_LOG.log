@@ -1,0 +1,1699 @@
+08/12/2020 04:54:25 PM , [INFO]: Pro Number formatting started
+08/12/2020 04:55:07 PM , [INFO]: Pro Number formatting started
+08/12/2020 04:55:07 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 04:55:07 PM , [INFO]: inside first try for reading config
+08/12/2020 04:55:07 PM , [INFO]: reading from csv
+08/12/2020 04:55:07 PM , [INFO]: UME
+08/12/2020 04:55:07 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 04:55:07 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 04:55:07 PM , [INFO]: inside first try for reading config
+08/12/2020 04:55:07 PM , [INFO]: reading from csv
+08/12/2020 04:55:07 PM , [INFO]: UME
+08/12/2020 04:55:07 PM , [INFO]: Out For Delivery
+08/12/2020 04:55:07 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 04:55:07 PM , [INFO]: inside first try for reading config
+08/12/2020 04:55:07 PM , [INFO]: reading from csv
+08/12/2020 04:55:07 PM , [INFO]: UME
+08/12/2020 04:55:07 PM , [INFO]: Manifested
+08/12/2020 04:55:07 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 04:55:07 PM , [INFO]: inside first try for reading config
+08/12/2020 04:55:07 PM , [INFO]: reading from csv
+08/12/2020 04:55:07 PM , [INFO]: UME
+08/12/2020 04:55:07 PM , [INFO]: Trailer Arrived
+08/12/2020 04:55:07 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 04:55:07 PM , [INFO]: inside first try for reading config
+08/12/2020 04:55:07 PM , [INFO]: reading from csv
+08/12/2020 04:55:07 PM , [INFO]: UME
+08/12/2020 04:55:07 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 04:55:07 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 04:55:07 PM , [INFO]: inside first try for reading config
+08/12/2020 04:55:07 PM , [INFO]: reading from csv
+08/12/2020 04:55:07 PM , [INFO]: UME
+08/12/2020 04:55:07 PM , [INFO]: Manifested
+08/12/2020 04:55:07 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 04:55:07 PM , [INFO]: inside first try for reading config
+08/12/2020 04:55:07 PM , [INFO]: reading from csv
+08/12/2020 04:55:07 PM , [INFO]: UME
+08/12/2020 04:55:07 PM , [INFO]: Picked Up
+08/12/2020 04:55:07 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 04:55:07 PM , [INFO]: inside first try for reading config
+08/12/2020 04:55:07 PM , [INFO]: reading from csv
+08/12/2020 04:55:07 PM , [INFO]: UME
+08/12/2020 04:55:07 PM , [INFO]: Pickup Request Received
+08/12/2020 04:55:07 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/26/2018' does not match format ' %m/%d/%Y '
+08/12/2020 04:55:49 PM , [INFO]: Pro Number formatting started
+08/12/2020 04:55:49 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 04:55:49 PM , [INFO]: inside first try for reading config
+08/12/2020 04:55:49 PM , [INFO]: reading from csv
+08/12/2020 04:55:49 PM , [INFO]: UME
+08/12/2020 04:55:49 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 04:55:49 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 04:55:49 PM , [INFO]: inside first try for reading config
+08/12/2020 04:55:49 PM , [INFO]: reading from csv
+08/12/2020 04:55:49 PM , [INFO]: UME
+08/12/2020 04:55:49 PM , [INFO]: Out For Delivery
+08/12/2020 04:55:49 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 04:55:49 PM , [INFO]: inside first try for reading config
+08/12/2020 04:55:49 PM , [INFO]: reading from csv
+08/12/2020 04:55:49 PM , [INFO]: UME
+08/12/2020 04:55:49 PM , [INFO]: Manifested
+08/12/2020 04:55:49 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 04:55:49 PM , [INFO]: inside first try for reading config
+08/12/2020 04:55:49 PM , [INFO]: reading from csv
+08/12/2020 04:55:49 PM , [INFO]: UME
+08/12/2020 04:55:49 PM , [INFO]: Trailer Arrived
+08/12/2020 04:55:49 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 04:55:49 PM , [INFO]: inside first try for reading config
+08/12/2020 04:55:49 PM , [INFO]: reading from csv
+08/12/2020 04:55:49 PM , [INFO]: UME
+08/12/2020 04:55:49 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 04:55:49 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 04:55:49 PM , [INFO]: inside first try for reading config
+08/12/2020 04:55:49 PM , [INFO]: reading from csv
+08/12/2020 04:55:49 PM , [INFO]: UME
+08/12/2020 04:55:49 PM , [INFO]: Manifested
+08/12/2020 04:55:49 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 04:55:49 PM , [INFO]: inside first try for reading config
+08/12/2020 04:55:49 PM , [INFO]: reading from csv
+08/12/2020 04:55:49 PM , [INFO]: UME
+08/12/2020 04:55:49 PM , [INFO]: Picked Up
+08/12/2020 04:55:49 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 04:55:49 PM , [INFO]: inside first try for reading config
+08/12/2020 04:55:49 PM , [INFO]: reading from csv
+08/12/2020 04:55:49 PM , [INFO]: UME
+08/12/2020 04:55:49 PM , [INFO]: Pickup Request Received
+08/12/2020 04:55:49 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/26/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:31:38 PM , [INFO]: Pro Number formatting started
+08/12/2020 09:31:38 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 09:31:38 PM , [INFO]: inside first try for reading config
+08/12/2020 09:31:38 PM , [INFO]: reading from csv
+08/12/2020 09:31:38 PM , [INFO]: UME
+08/12/2020 09:31:38 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 09:31:38 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:31:38 PM , [INFO]: inside first try for reading config
+08/12/2020 09:31:38 PM , [INFO]: reading from csv
+08/12/2020 09:31:38 PM , [INFO]: OD
+08/12/2020 09:31:38 PM , [INFO]: Out For Delivery
+08/12/2020 09:31:38 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:31:38 PM , [INFO]: inside first try for reading config
+08/12/2020 09:31:38 PM , [INFO]: reading from csv
+08/12/2020 09:31:38 PM , [INFO]: MD
+08/12/2020 09:31:38 PM , [INFO]: Manifested
+08/12/2020 09:31:38 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:31:38 PM , [INFO]: inside first try for reading config
+08/12/2020 09:31:38 PM , [INFO]: reading from csv
+08/12/2020 09:31:38 PM , [INFO]: TA
+08/12/2020 09:31:38 PM , [INFO]: Trailer Arrived
+08/12/2020 09:31:38 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:31:38 PM , [INFO]: inside first try for reading config
+08/12/2020 09:31:38 PM , [INFO]: reading from csv
+08/12/2020 09:31:38 PM , [INFO]: TD
+08/12/2020 09:31:38 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 09:31:38 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:31:38 PM , [INFO]: inside first try for reading config
+08/12/2020 09:31:38 PM , [INFO]: reading from csv
+08/12/2020 09:31:38 PM , [INFO]: MD
+08/12/2020 09:31:38 PM , [INFO]: Manifested
+08/12/2020 09:31:38 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:31:38 PM , [INFO]: inside first try for reading config
+08/12/2020 09:31:38 PM , [INFO]: reading from csv
+08/12/2020 09:31:38 PM , [INFO]: PO
+08/12/2020 09:31:38 PM , [INFO]: Picked Up
+08/12/2020 09:31:38 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:31:38 PM , [INFO]: inside first try for reading config
+08/12/2020 09:31:38 PM , [INFO]: reading from csv
+08/12/2020 09:31:38 PM , [INFO]: PRR
+08/12/2020 09:31:38 PM , [INFO]: Pickup Request Received
+08/12/2020 09:31:38 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/26/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:32:35 PM , [INFO]: Pro Number formatting started
+08/12/2020 09:32:35 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 09:32:35 PM , [INFO]: inside first try for reading config
+08/12/2020 09:32:35 PM , [INFO]: reading from csv
+08/12/2020 09:32:35 PM , [INFO]: UME
+08/12/2020 09:32:35 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 09:32:35 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:32:35 PM , [INFO]: inside first try for reading config
+08/12/2020 09:32:35 PM , [INFO]: reading from csv
+08/12/2020 09:32:35 PM , [INFO]: OD
+08/12/2020 09:32:35 PM , [INFO]: Out For Delivery
+08/12/2020 09:32:35 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:32:35 PM , [INFO]: inside first try for reading config
+08/12/2020 09:32:35 PM , [INFO]: reading from csv
+08/12/2020 09:32:35 PM , [INFO]: MD
+08/12/2020 09:32:35 PM , [INFO]: Manifested
+08/12/2020 09:32:35 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:32:35 PM , [INFO]: inside first try for reading config
+08/12/2020 09:32:35 PM , [INFO]: reading from csv
+08/12/2020 09:32:35 PM , [INFO]: TA
+08/12/2020 09:32:35 PM , [INFO]: Trailer Arrived
+08/12/2020 09:32:35 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:32:35 PM , [INFO]: inside first try for reading config
+08/12/2020 09:32:35 PM , [INFO]: reading from csv
+08/12/2020 09:32:35 PM , [INFO]: TD
+08/12/2020 09:32:35 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 09:32:35 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:32:35 PM , [INFO]: inside first try for reading config
+08/12/2020 09:32:35 PM , [INFO]: reading from csv
+08/12/2020 09:32:35 PM , [INFO]: MD
+08/12/2020 09:32:35 PM , [INFO]: Manifested
+08/12/2020 09:32:35 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:32:35 PM , [INFO]: inside first try for reading config
+08/12/2020 09:32:35 PM , [INFO]: reading from csv
+08/12/2020 09:32:35 PM , [INFO]: PO
+08/12/2020 09:32:35 PM , [INFO]: Picked Up
+08/12/2020 09:32:35 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:32:35 PM , [INFO]: inside first try for reading config
+08/12/2020 09:32:35 PM , [INFO]: reading from csv
+08/12/2020 09:32:35 PM , [INFO]: PRR
+08/12/2020 09:32:35 PM , [INFO]: Pickup Request Received
+08/12/2020 09:32:35 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/26/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:35:04 PM , [INFO]: Pro Number formatting started
+08/12/2020 09:35:04 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 09:35:04 PM , [INFO]: inside first try for reading config
+08/12/2020 09:35:04 PM , [INFO]: reading from csv
+08/12/2020 09:35:04 PM , [INFO]: UME
+08/12/2020 09:35:04 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 09:35:04 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:35:04 PM , [INFO]: inside first try for reading config
+08/12/2020 09:35:04 PM , [INFO]: reading from csv
+08/12/2020 09:35:04 PM , [INFO]: OD
+08/12/2020 09:35:04 PM , [INFO]: Out For Delivery
+08/12/2020 09:35:04 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:35:04 PM , [INFO]: inside first try for reading config
+08/12/2020 09:35:04 PM , [INFO]: reading from csv
+08/12/2020 09:35:04 PM , [INFO]: MD
+08/12/2020 09:35:04 PM , [INFO]: Manifested
+08/12/2020 09:35:04 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:35:04 PM , [INFO]: inside first try for reading config
+08/12/2020 09:35:04 PM , [INFO]: reading from csv
+08/12/2020 09:35:04 PM , [INFO]: TA
+08/12/2020 09:35:04 PM , [INFO]: Trailer Arrived
+08/12/2020 09:35:04 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:35:04 PM , [INFO]: inside first try for reading config
+08/12/2020 09:35:04 PM , [INFO]: reading from csv
+08/12/2020 09:35:04 PM , [INFO]: TD
+08/12/2020 09:35:04 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 09:35:04 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:35:04 PM , [INFO]: inside first try for reading config
+08/12/2020 09:35:04 PM , [INFO]: reading from csv
+08/12/2020 09:35:04 PM , [INFO]: MD
+08/12/2020 09:35:04 PM , [INFO]: Manifested
+08/12/2020 09:35:04 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:35:04 PM , [INFO]: inside first try for reading config
+08/12/2020 09:35:04 PM , [INFO]: reading from csv
+08/12/2020 09:35:04 PM , [INFO]: PO
+08/12/2020 09:35:04 PM , [INFO]: Picked Up
+08/12/2020 09:35:04 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:35:04 PM , [INFO]: inside first try for reading config
+08/12/2020 09:35:04 PM , [INFO]: reading from csv
+08/12/2020 09:35:04 PM , [INFO]: PRR
+08/12/2020 09:35:04 PM , [INFO]: Pickup Request Received
+08/12/2020 09:35:04 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/26/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:36:06 PM , [INFO]: Pro Number formatting started
+08/12/2020 09:36:06 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 09:36:06 PM , [INFO]: inside first try for reading config
+08/12/2020 09:36:06 PM , [INFO]: reading from csv
+08/12/2020 09:36:06 PM , [INFO]: UME
+08/12/2020 09:36:06 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 09:36:06 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:36:06 PM , [INFO]: inside first try for reading config
+08/12/2020 09:36:06 PM , [INFO]: reading from csv
+08/12/2020 09:36:06 PM , [INFO]: OD
+08/12/2020 09:36:06 PM , [INFO]: Out For Delivery
+08/12/2020 09:36:06 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:36:06 PM , [INFO]: inside first try for reading config
+08/12/2020 09:36:06 PM , [INFO]: reading from csv
+08/12/2020 09:36:06 PM , [INFO]: MD
+08/12/2020 09:36:06 PM , [INFO]: Manifested
+08/12/2020 09:36:06 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:36:06 PM , [INFO]: inside first try for reading config
+08/12/2020 09:36:06 PM , [INFO]: reading from csv
+08/12/2020 09:36:06 PM , [INFO]: TA
+08/12/2020 09:36:06 PM , [INFO]: Trailer Arrived
+08/12/2020 09:36:06 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:36:06 PM , [INFO]: inside first try for reading config
+08/12/2020 09:36:06 PM , [INFO]: reading from csv
+08/12/2020 09:36:06 PM , [INFO]: TD
+08/12/2020 09:36:06 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 09:36:06 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:36:06 PM , [INFO]: inside first try for reading config
+08/12/2020 09:36:06 PM , [INFO]: reading from csv
+08/12/2020 09:36:06 PM , [INFO]: MD
+08/12/2020 09:36:06 PM , [INFO]: Manifested
+08/12/2020 09:36:06 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:36:06 PM , [INFO]: inside first try for reading config
+08/12/2020 09:36:06 PM , [INFO]: reading from csv
+08/12/2020 09:36:06 PM , [INFO]: PO
+08/12/2020 09:36:06 PM , [INFO]: Picked Up
+08/12/2020 09:36:06 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:36:06 PM , [INFO]: inside first try for reading config
+08/12/2020 09:36:06 PM , [INFO]: reading from csv
+08/12/2020 09:36:06 PM , [INFO]: PRR
+08/12/2020 09:36:06 PM , [INFO]: Pickup Request Received
+08/12/2020 09:36:06 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/26/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:37:30 PM , [INFO]: Pro Number formatting started
+08/12/2020 09:37:30 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 09:37:30 PM , [INFO]: inside first try for reading config
+08/12/2020 09:37:30 PM , [INFO]: reading from csv
+08/12/2020 09:37:30 PM , [INFO]: UME
+08/12/2020 09:37:30 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 09:37:30 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:37:30 PM , [INFO]: inside first try for reading config
+08/12/2020 09:37:30 PM , [INFO]: reading from csv
+08/12/2020 09:37:30 PM , [INFO]: OD
+08/12/2020 09:37:30 PM , [INFO]: Out For Delivery
+08/12/2020 09:37:30 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:37:30 PM , [INFO]: inside first try for reading config
+08/12/2020 09:37:30 PM , [INFO]: reading from csv
+08/12/2020 09:37:30 PM , [INFO]: MD
+08/12/2020 09:37:30 PM , [INFO]: Manifested
+08/12/2020 09:37:30 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:37:30 PM , [INFO]: inside first try for reading config
+08/12/2020 09:37:30 PM , [INFO]: reading from csv
+08/12/2020 09:37:30 PM , [INFO]: TA
+08/12/2020 09:37:30 PM , [INFO]: Trailer Arrived
+08/12/2020 09:37:30 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:37:30 PM , [INFO]: inside first try for reading config
+08/12/2020 09:37:30 PM , [INFO]: reading from csv
+08/12/2020 09:37:30 PM , [INFO]: TD
+08/12/2020 09:37:30 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 09:37:30 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:37:30 PM , [INFO]: inside first try for reading config
+08/12/2020 09:37:30 PM , [INFO]: reading from csv
+08/12/2020 09:37:30 PM , [INFO]: MD
+08/12/2020 09:37:30 PM , [INFO]: Manifested
+08/12/2020 09:37:30 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:37:30 PM , [INFO]: inside first try for reading config
+08/12/2020 09:37:30 PM , [INFO]: reading from csv
+08/12/2020 09:37:30 PM , [INFO]: PO
+08/12/2020 09:37:30 PM , [INFO]: Picked Up
+08/12/2020 09:37:30 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:37:30 PM , [INFO]: inside first try for reading config
+08/12/2020 09:37:30 PM , [INFO]: reading from csv
+08/12/2020 09:37:30 PM , [INFO]: PRR
+08/12/2020 09:37:30 PM , [INFO]: Pickup Request Received
+08/12/2020 09:37:30 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/26/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:39:45 PM , [INFO]: Pro Number formatting started
+08/12/2020 09:39:45 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 09:39:45 PM , [INFO]: inside first try for reading config
+08/12/2020 09:39:45 PM , [INFO]: reading from csv
+08/12/2020 09:39:45 PM , [INFO]: UME
+08/12/2020 09:39:45 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 09:39:45 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:39:45 PM , [INFO]: inside first try for reading config
+08/12/2020 09:39:45 PM , [INFO]: reading from csv
+08/12/2020 09:39:45 PM , [INFO]: OD
+08/12/2020 09:39:45 PM , [INFO]: Out For Delivery
+08/12/2020 09:39:45 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:39:45 PM , [INFO]: inside first try for reading config
+08/12/2020 09:39:45 PM , [INFO]: reading from csv
+08/12/2020 09:39:45 PM , [INFO]: MD
+08/12/2020 09:39:45 PM , [INFO]: Manifested
+08/12/2020 09:39:45 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:39:45 PM , [INFO]: inside first try for reading config
+08/12/2020 09:39:45 PM , [INFO]: reading from csv
+08/12/2020 09:39:45 PM , [INFO]: TA
+08/12/2020 09:39:45 PM , [INFO]: Trailer Arrived
+08/12/2020 09:39:45 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:39:45 PM , [INFO]: inside first try for reading config
+08/12/2020 09:39:45 PM , [INFO]: reading from csv
+08/12/2020 09:39:45 PM , [INFO]: TD
+08/12/2020 09:39:45 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 09:39:45 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:39:45 PM , [INFO]: inside first try for reading config
+08/12/2020 09:39:45 PM , [INFO]: reading from csv
+08/12/2020 09:39:45 PM , [INFO]: MD
+08/12/2020 09:39:45 PM , [INFO]: Manifested
+08/12/2020 09:39:45 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:39:45 PM , [INFO]: inside first try for reading config
+08/12/2020 09:39:45 PM , [INFO]: reading from csv
+08/12/2020 09:39:45 PM , [INFO]: PO
+08/12/2020 09:39:45 PM , [INFO]: Picked Up
+08/12/2020 09:39:45 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:39:45 PM , [INFO]: inside first try for reading config
+08/12/2020 09:39:45 PM , [INFO]: reading from csv
+08/12/2020 09:39:45 PM , [INFO]: PRR
+08/12/2020 09:39:45 PM , [INFO]: Pickup Request Received
+08/12/2020 09:39:45 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/26/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:41:17 PM , [INFO]: Pro Number formatting started
+08/12/2020 09:41:17 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 09:41:17 PM , [INFO]: inside first try for reading config
+08/12/2020 09:41:17 PM , [INFO]: reading from csv
+08/12/2020 09:41:17 PM , [INFO]: UME
+08/12/2020 09:41:17 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 09:41:17 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:41:17 PM , [INFO]: inside first try for reading config
+08/12/2020 09:41:17 PM , [INFO]: reading from csv
+08/12/2020 09:41:17 PM , [INFO]: OD
+08/12/2020 09:41:17 PM , [INFO]: Out For Delivery
+08/12/2020 09:41:17 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:41:17 PM , [INFO]: inside first try for reading config
+08/12/2020 09:41:17 PM , [INFO]: reading from csv
+08/12/2020 09:41:17 PM , [INFO]: MD
+08/12/2020 09:41:17 PM , [INFO]: Manifested
+08/12/2020 09:41:17 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:41:17 PM , [INFO]: inside first try for reading config
+08/12/2020 09:41:17 PM , [INFO]: reading from csv
+08/12/2020 09:41:17 PM , [INFO]: TA
+08/12/2020 09:41:17 PM , [INFO]: Trailer Arrived
+08/12/2020 09:41:17 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:41:17 PM , [INFO]: inside first try for reading config
+08/12/2020 09:41:17 PM , [INFO]: reading from csv
+08/12/2020 09:41:17 PM , [INFO]: TD
+08/12/2020 09:41:17 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 09:41:17 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:41:17 PM , [INFO]: inside first try for reading config
+08/12/2020 09:41:17 PM , [INFO]: reading from csv
+08/12/2020 09:41:17 PM , [INFO]: MD
+08/12/2020 09:41:17 PM , [INFO]: Manifested
+08/12/2020 09:41:17 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:41:17 PM , [INFO]: inside first try for reading config
+08/12/2020 09:41:17 PM , [INFO]: reading from csv
+08/12/2020 09:41:17 PM , [INFO]: PO
+08/12/2020 09:41:17 PM , [INFO]: Picked Up
+08/12/2020 09:41:17 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:41:17 PM , [INFO]: inside first try for reading config
+08/12/2020 09:41:17 PM , [INFO]: reading from csv
+08/12/2020 09:41:17 PM , [INFO]: PRR
+08/12/2020 09:41:17 PM , [INFO]: Pickup Request Received
+08/12/2020 09:41:17 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/26/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:44:04 PM , [INFO]: Pro Number formatting started
+08/12/2020 09:44:04 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 09:44:04 PM , [INFO]: inside first try for reading config
+08/12/2020 09:44:04 PM , [INFO]: There was an error in reading from config file. The error is : 'resolvedEventSource'
+08/12/2020 09:44:04 PM , [INFO]: reading from csv
+08/12/2020 09:44:04 PM , [INFO]: UME
+08/12/2020 09:44:04 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 09:44:04 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:44:04 PM , [INFO]: inside first try for reading config
+08/12/2020 09:44:04 PM , [INFO]: There was an error in reading from config file. The error is : 'resolvedEventSource'
+08/12/2020 09:44:04 PM , [INFO]: reading from csv
+08/12/2020 09:44:04 PM , [INFO]: OD
+08/12/2020 09:44:04 PM , [INFO]: Out For Delivery
+08/12/2020 09:44:04 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:44:04 PM , [INFO]: inside first try for reading config
+08/12/2020 09:44:04 PM , [INFO]: There was an error in reading from config file. The error is : 'resolvedEventSource'
+08/12/2020 09:44:04 PM , [INFO]: reading from csv
+08/12/2020 09:44:04 PM , [INFO]: MD
+08/12/2020 09:44:04 PM , [INFO]: Manifested
+08/12/2020 09:44:04 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:44:04 PM , [INFO]: inside first try for reading config
+08/12/2020 09:44:04 PM , [INFO]: There was an error in reading from config file. The error is : 'resolvedEventSource'
+08/12/2020 09:44:04 PM , [INFO]: reading from csv
+08/12/2020 09:44:04 PM , [INFO]: TA
+08/12/2020 09:44:04 PM , [INFO]: Trailer Arrived
+08/12/2020 09:44:04 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:44:04 PM , [INFO]: inside first try for reading config
+08/12/2020 09:44:04 PM , [INFO]: There was an error in reading from config file. The error is : 'resolvedEventSource'
+08/12/2020 09:44:04 PM , [INFO]: reading from csv
+08/12/2020 09:44:04 PM , [INFO]: TD
+08/12/2020 09:44:04 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 09:44:04 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:44:04 PM , [INFO]: inside first try for reading config
+08/12/2020 09:44:04 PM , [INFO]: There was an error in reading from config file. The error is : 'resolvedEventSource'
+08/12/2020 09:44:04 PM , [INFO]: reading from csv
+08/12/2020 09:44:04 PM , [INFO]: MD
+08/12/2020 09:44:04 PM , [INFO]: Manifested
+08/12/2020 09:44:04 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:44:04 PM , [INFO]: inside first try for reading config
+08/12/2020 09:44:04 PM , [INFO]: There was an error in reading from config file. The error is : 'resolvedEventSource'
+08/12/2020 09:44:04 PM , [INFO]: reading from csv
+08/12/2020 09:44:04 PM , [INFO]: PO
+08/12/2020 09:44:04 PM , [INFO]: Picked Up
+08/12/2020 09:44:04 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:44:04 PM , [INFO]: inside first try for reading config
+08/12/2020 09:44:04 PM , [INFO]: There was an error in reading from config file. The error is : 'resolvedEventSource'
+08/12/2020 09:44:04 PM , [INFO]: reading from csv
+08/12/2020 09:44:04 PM , [INFO]: PRR
+08/12/2020 09:44:04 PM , [INFO]: Pickup Request Received
+08/12/2020 09:44:04 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/26/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:44:53 PM , [INFO]: Pro Number formatting started
+08/12/2020 09:44:53 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 09:44:53 PM , [INFO]: inside first try for reading config
+08/12/2020 09:44:53 PM , [INFO]: reading from csv
+08/12/2020 09:44:53 PM , [INFO]: UME
+08/12/2020 09:44:53 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 09:44:53 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:44:53 PM , [INFO]: inside first try for reading config
+08/12/2020 09:44:53 PM , [INFO]: reading from csv
+08/12/2020 09:44:53 PM , [INFO]: OD
+08/12/2020 09:44:53 PM , [INFO]: Out For Delivery
+08/12/2020 09:44:53 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:44:53 PM , [INFO]: inside first try for reading config
+08/12/2020 09:44:53 PM , [INFO]: reading from csv
+08/12/2020 09:44:53 PM , [INFO]: MD
+08/12/2020 09:44:53 PM , [INFO]: Manifested
+08/12/2020 09:44:53 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:44:53 PM , [INFO]: inside first try for reading config
+08/12/2020 09:44:53 PM , [INFO]: reading from csv
+08/12/2020 09:44:53 PM , [INFO]: TA
+08/12/2020 09:44:53 PM , [INFO]: Trailer Arrived
+08/12/2020 09:44:53 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:44:53 PM , [INFO]: inside first try for reading config
+08/12/2020 09:44:53 PM , [INFO]: reading from csv
+08/12/2020 09:44:53 PM , [INFO]: TD
+08/12/2020 09:44:53 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 09:44:53 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:44:53 PM , [INFO]: inside first try for reading config
+08/12/2020 09:44:53 PM , [INFO]: reading from csv
+08/12/2020 09:44:53 PM , [INFO]: MD
+08/12/2020 09:44:53 PM , [INFO]: Manifested
+08/12/2020 09:44:53 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:44:53 PM , [INFO]: inside first try for reading config
+08/12/2020 09:44:53 PM , [INFO]: reading from csv
+08/12/2020 09:44:53 PM , [INFO]: PO
+08/12/2020 09:44:53 PM , [INFO]: Picked Up
+08/12/2020 09:44:53 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:44:53 PM , [INFO]: inside first try for reading config
+08/12/2020 09:44:53 PM , [INFO]: reading from csv
+08/12/2020 09:44:53 PM , [INFO]: PRR
+08/12/2020 09:44:53 PM , [INFO]: Pickup Request Received
+08/12/2020 09:44:53 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/26/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:46:41 PM , [INFO]: Pro Number formatting started
+08/12/2020 09:46:41 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 09:46:41 PM , [INFO]: inside first try for reading config
+08/12/2020 09:46:41 PM , [INFO]: reading from csv
+08/12/2020 09:46:41 PM , [INFO]: UME
+08/12/2020 09:46:41 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 09:46:41 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:46:41 PM , [INFO]: inside first try for reading config
+08/12/2020 09:46:41 PM , [INFO]: reading from csv
+08/12/2020 09:46:41 PM , [INFO]: OD
+08/12/2020 09:46:41 PM , [INFO]: Out For Delivery
+08/12/2020 09:46:41 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:46:41 PM , [INFO]: inside first try for reading config
+08/12/2020 09:46:41 PM , [INFO]: reading from csv
+08/12/2020 09:46:41 PM , [INFO]: MD
+08/12/2020 09:46:41 PM , [INFO]: Manifested
+08/12/2020 09:46:41 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:46:41 PM , [INFO]: inside first try for reading config
+08/12/2020 09:46:41 PM , [INFO]: reading from csv
+08/12/2020 09:46:41 PM , [INFO]: TA
+08/12/2020 09:46:41 PM , [INFO]: Trailer Arrived
+08/12/2020 09:46:41 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:46:41 PM , [INFO]: inside first try for reading config
+08/12/2020 09:46:41 PM , [INFO]: reading from csv
+08/12/2020 09:46:41 PM , [INFO]: TD
+08/12/2020 09:46:41 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 09:46:41 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:46:41 PM , [INFO]: inside first try for reading config
+08/12/2020 09:46:41 PM , [INFO]: reading from csv
+08/12/2020 09:46:41 PM , [INFO]: MD
+08/12/2020 09:46:41 PM , [INFO]: Manifested
+08/12/2020 09:46:41 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:46:41 PM , [INFO]: inside first try for reading config
+08/12/2020 09:46:41 PM , [INFO]: reading from csv
+08/12/2020 09:46:41 PM , [INFO]: PO
+08/12/2020 09:46:41 PM , [INFO]: Picked Up
+08/12/2020 09:46:41 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:46:41 PM , [INFO]: inside first try for reading config
+08/12/2020 09:46:41 PM , [INFO]: reading from csv
+08/12/2020 09:46:41 PM , [INFO]: PRR
+08/12/2020 09:46:41 PM , [INFO]: Pickup Request Received
+08/12/2020 09:46:41 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/26/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:46:56 PM , [INFO]: Pro Number formatting started
+08/12/2020 09:46:56 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 09:46:56 PM , [INFO]: inside first try for reading config
+08/12/2020 09:46:56 PM , [INFO]: reading from csv
+08/12/2020 09:46:56 PM , [INFO]: UME
+08/12/2020 09:46:56 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 09:46:56 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:46:56 PM , [INFO]: inside first try for reading config
+08/12/2020 09:46:56 PM , [INFO]: reading from csv
+08/12/2020 09:46:56 PM , [INFO]: OD
+08/12/2020 09:46:56 PM , [INFO]: Out For Delivery
+08/12/2020 09:46:56 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:46:56 PM , [INFO]: inside first try for reading config
+08/12/2020 09:46:56 PM , [INFO]: reading from csv
+08/12/2020 09:46:56 PM , [INFO]: MD
+08/12/2020 09:46:56 PM , [INFO]: Manifested
+08/12/2020 09:46:56 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:46:56 PM , [INFO]: inside first try for reading config
+08/12/2020 09:46:56 PM , [INFO]: reading from csv
+08/12/2020 09:46:56 PM , [INFO]: TA
+08/12/2020 09:46:56 PM , [INFO]: Trailer Arrived
+08/12/2020 09:46:56 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:46:56 PM , [INFO]: inside first try for reading config
+08/12/2020 09:46:56 PM , [INFO]: reading from csv
+08/12/2020 09:46:56 PM , [INFO]: TD
+08/12/2020 09:46:56 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 09:46:56 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:46:56 PM , [INFO]: inside first try for reading config
+08/12/2020 09:46:56 PM , [INFO]: reading from csv
+08/12/2020 09:46:56 PM , [INFO]: MD
+08/12/2020 09:46:56 PM , [INFO]: Manifested
+08/12/2020 09:46:56 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:46:56 PM , [INFO]: inside first try for reading config
+08/12/2020 09:46:56 PM , [INFO]: reading from csv
+08/12/2020 09:46:56 PM , [INFO]: PO
+08/12/2020 09:46:56 PM , [INFO]: Picked Up
+08/12/2020 09:46:56 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:46:56 PM , [INFO]: inside first try for reading config
+08/12/2020 09:46:56 PM , [INFO]: reading from csv
+08/12/2020 09:46:56 PM , [INFO]: PRR
+08/12/2020 09:46:56 PM , [INFO]: Pickup Request Received
+08/12/2020 09:46:56 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/26/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:47:52 PM , [INFO]: Pro Number formatting started
+08/12/2020 09:47:52 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 09:47:52 PM , [INFO]: inside first try for reading config
+08/12/2020 09:47:52 PM , [INFO]: reading from csv
+08/12/2020 09:47:52 PM , [INFO]: UME
+08/12/2020 09:47:52 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 09:47:52 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:47:52 PM , [INFO]: inside first try for reading config
+08/12/2020 09:47:52 PM , [INFO]: reading from csv
+08/12/2020 09:47:52 PM , [INFO]: OD
+08/12/2020 09:47:52 PM , [INFO]: Out For Delivery
+08/12/2020 09:47:52 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:47:52 PM , [INFO]: inside first try for reading config
+08/12/2020 09:47:52 PM , [INFO]: reading from csv
+08/12/2020 09:47:52 PM , [INFO]: MD
+08/12/2020 09:47:52 PM , [INFO]: Manifested
+08/12/2020 09:47:52 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:47:52 PM , [INFO]: inside first try for reading config
+08/12/2020 09:47:52 PM , [INFO]: reading from csv
+08/12/2020 09:47:52 PM , [INFO]: TA
+08/12/2020 09:47:52 PM , [INFO]: Trailer Arrived
+08/12/2020 09:47:52 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:47:52 PM , [INFO]: inside first try for reading config
+08/12/2020 09:47:52 PM , [INFO]: reading from csv
+08/12/2020 09:47:52 PM , [INFO]: TD
+08/12/2020 09:47:52 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 09:47:52 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:47:52 PM , [INFO]: inside first try for reading config
+08/12/2020 09:47:52 PM , [INFO]: reading from csv
+08/12/2020 09:47:52 PM , [INFO]: MD
+08/12/2020 09:47:52 PM , [INFO]: Manifested
+08/12/2020 09:47:52 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:47:52 PM , [INFO]: inside first try for reading config
+08/12/2020 09:47:52 PM , [INFO]: reading from csv
+08/12/2020 09:47:52 PM , [INFO]: PO
+08/12/2020 09:47:52 PM , [INFO]: Picked Up
+08/12/2020 09:47:52 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:47:52 PM , [INFO]: inside first try for reading config
+08/12/2020 09:47:52 PM , [INFO]: reading from csv
+08/12/2020 09:47:52 PM , [INFO]: PRR
+08/12/2020 09:47:52 PM , [INFO]: Pickup Request Received
+08/12/2020 09:47:52 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/26/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:48:24 PM , [INFO]: Pro Number formatting started
+08/12/2020 09:48:24 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 09:48:24 PM , [INFO]: inside first try for reading config
+08/12/2020 09:48:24 PM , [INFO]: reading from csv
+08/12/2020 09:48:24 PM , [INFO]: UME
+08/12/2020 09:48:24 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 09:48:24 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:48:24 PM , [INFO]: inside first try for reading config
+08/12/2020 09:48:24 PM , [INFO]: reading from csv
+08/12/2020 09:48:24 PM , [INFO]: OD
+08/12/2020 09:48:24 PM , [INFO]: Out For Delivery
+08/12/2020 09:48:24 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:48:24 PM , [INFO]: inside first try for reading config
+08/12/2020 09:48:24 PM , [INFO]: reading from csv
+08/12/2020 09:48:24 PM , [INFO]: MD
+08/12/2020 09:48:24 PM , [INFO]: Manifested
+08/12/2020 09:48:24 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:48:24 PM , [INFO]: inside first try for reading config
+08/12/2020 09:48:24 PM , [INFO]: reading from csv
+08/12/2020 09:48:24 PM , [INFO]: TA
+08/12/2020 09:48:24 PM , [INFO]: Trailer Arrived
+08/12/2020 09:48:24 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:48:24 PM , [INFO]: inside first try for reading config
+08/12/2020 09:48:24 PM , [INFO]: reading from csv
+08/12/2020 09:48:24 PM , [INFO]: TD
+08/12/2020 09:48:24 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 09:48:24 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:48:24 PM , [INFO]: inside first try for reading config
+08/12/2020 09:48:24 PM , [INFO]: reading from csv
+08/12/2020 09:48:24 PM , [INFO]: MD
+08/12/2020 09:48:24 PM , [INFO]: Manifested
+08/12/2020 09:48:24 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:48:24 PM , [INFO]: inside first try for reading config
+08/12/2020 09:48:24 PM , [INFO]: reading from csv
+08/12/2020 09:48:24 PM , [INFO]: PO
+08/12/2020 09:48:24 PM , [INFO]: Picked Up
+08/12/2020 09:48:24 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:48:24 PM , [INFO]: inside first try for reading config
+08/12/2020 09:48:24 PM , [INFO]: reading from csv
+08/12/2020 09:48:24 PM , [INFO]: PRR
+08/12/2020 09:48:24 PM , [INFO]: Pickup Request Received
+08/12/2020 09:48:24 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/26/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:49:09 PM , [INFO]: Pro Number formatting started
+08/12/2020 09:49:09 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 09:49:09 PM , [INFO]: inside first try for reading config
+08/12/2020 09:49:09 PM , [INFO]: reading from csv
+08/12/2020 09:49:09 PM , [INFO]: UME
+08/12/2020 09:49:09 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 09:49:09 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:49:09 PM , [INFO]: inside first try for reading config
+08/12/2020 09:49:09 PM , [INFO]: reading from csv
+08/12/2020 09:49:09 PM , [INFO]: OD
+08/12/2020 09:49:09 PM , [INFO]: Out For Delivery
+08/12/2020 09:49:09 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:49:09 PM , [INFO]: inside first try for reading config
+08/12/2020 09:49:09 PM , [INFO]: reading from csv
+08/12/2020 09:49:09 PM , [INFO]: MD
+08/12/2020 09:49:09 PM , [INFO]: Manifested
+08/12/2020 09:49:09 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:49:09 PM , [INFO]: inside first try for reading config
+08/12/2020 09:49:09 PM , [INFO]: reading from csv
+08/12/2020 09:49:09 PM , [INFO]: TA
+08/12/2020 09:49:09 PM , [INFO]: Trailer Arrived
+08/12/2020 09:49:09 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:49:09 PM , [INFO]: inside first try for reading config
+08/12/2020 09:49:09 PM , [INFO]: reading from csv
+08/12/2020 09:49:09 PM , [INFO]: TD
+08/12/2020 09:49:09 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 09:49:09 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:49:09 PM , [INFO]: inside first try for reading config
+08/12/2020 09:49:09 PM , [INFO]: reading from csv
+08/12/2020 09:49:09 PM , [INFO]: MD
+08/12/2020 09:49:09 PM , [INFO]: Manifested
+08/12/2020 09:49:09 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:49:09 PM , [INFO]: inside first try for reading config
+08/12/2020 09:49:09 PM , [INFO]: reading from csv
+08/12/2020 09:49:09 PM , [INFO]: PO
+08/12/2020 09:49:09 PM , [INFO]: Picked Up
+08/12/2020 09:49:09 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:49:09 PM , [INFO]: inside first try for reading config
+08/12/2020 09:49:09 PM , [INFO]: reading from csv
+08/12/2020 09:49:09 PM , [INFO]: PRR
+08/12/2020 09:49:09 PM , [INFO]: Pickup Request Received
+08/12/2020 09:49:09 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/26/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:49:46 PM , [INFO]: Pro Number formatting started
+08/12/2020 09:49:46 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 09:49:46 PM , [INFO]: inside first try for reading config
+08/12/2020 09:49:46 PM , [INFO]: reading from csv
+08/12/2020 09:49:46 PM , [INFO]: UME
+08/12/2020 09:49:46 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 09:49:46 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:49:46 PM , [INFO]: inside first try for reading config
+08/12/2020 09:49:46 PM , [INFO]: reading from csv
+08/12/2020 09:49:46 PM , [INFO]: OD
+08/12/2020 09:49:46 PM , [INFO]: Out For Delivery
+08/12/2020 09:49:46 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:49:46 PM , [INFO]: inside first try for reading config
+08/12/2020 09:49:46 PM , [INFO]: reading from csv
+08/12/2020 09:49:46 PM , [INFO]: MD
+08/12/2020 09:49:46 PM , [INFO]: Manifested
+08/12/2020 09:49:46 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:49:46 PM , [INFO]: inside first try for reading config
+08/12/2020 09:49:46 PM , [INFO]: reading from csv
+08/12/2020 09:49:46 PM , [INFO]: TA
+08/12/2020 09:49:46 PM , [INFO]: Trailer Arrived
+08/12/2020 09:49:46 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:49:46 PM , [INFO]: inside first try for reading config
+08/12/2020 09:49:46 PM , [INFO]: reading from csv
+08/12/2020 09:49:46 PM , [INFO]: TD
+08/12/2020 09:49:46 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 09:49:46 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:49:46 PM , [INFO]: inside first try for reading config
+08/12/2020 09:49:46 PM , [INFO]: reading from csv
+08/12/2020 09:49:46 PM , [INFO]: MD
+08/12/2020 09:49:46 PM , [INFO]: Manifested
+08/12/2020 09:49:46 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:49:46 PM , [INFO]: inside first try for reading config
+08/12/2020 09:49:46 PM , [INFO]: reading from csv
+08/12/2020 09:49:46 PM , [INFO]: PO
+08/12/2020 09:49:46 PM , [INFO]: Picked Up
+08/12/2020 09:49:46 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:49:46 PM , [INFO]: inside first try for reading config
+08/12/2020 09:49:46 PM , [INFO]: reading from csv
+08/12/2020 09:49:46 PM , [INFO]: PRR
+08/12/2020 09:49:46 PM , [INFO]: Pickup Request Received
+08/12/2020 09:49:46 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/26/2018' does not match format ' %m/%d/%Y '
+08/12/2020 09:50:07 PM , [INFO]: Pro Number formatting started
+08/12/2020 09:50:07 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 09:50:07 PM , [INFO]: inside first try for reading config
+08/12/2020 09:50:07 PM , [INFO]: reading from csv
+08/12/2020 09:50:07 PM , [INFO]: UME
+08/12/2020 09:50:07 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 09:50:07 PM , [INFO]: inside first try for reading config
+08/12/2020 09:50:07 PM , [INFO]: reading from csv
+08/12/2020 09:50:07 PM , [INFO]: OD
+08/12/2020 09:50:07 PM , [INFO]: Out For Delivery
+08/12/2020 09:50:07 PM , [INFO]: inside first try for reading config
+08/12/2020 09:50:07 PM , [INFO]: reading from csv
+08/12/2020 09:50:07 PM , [INFO]: MD
+08/12/2020 09:50:07 PM , [INFO]: Manifested
+08/12/2020 09:50:07 PM , [INFO]: inside first try for reading config
+08/12/2020 09:50:07 PM , [INFO]: reading from csv
+08/12/2020 09:50:07 PM , [INFO]: TA
+08/12/2020 09:50:07 PM , [INFO]: Trailer Arrived
+08/12/2020 09:50:07 PM , [INFO]: inside first try for reading config
+08/12/2020 09:50:07 PM , [INFO]: reading from csv
+08/12/2020 09:50:07 PM , [INFO]: TD
+08/12/2020 09:50:07 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 09:50:07 PM , [INFO]: inside first try for reading config
+08/12/2020 09:50:07 PM , [INFO]: reading from csv
+08/12/2020 09:50:07 PM , [INFO]: MD
+08/12/2020 09:50:07 PM , [INFO]: Manifested
+08/12/2020 09:50:07 PM , [INFO]: inside first try for reading config
+08/12/2020 09:50:07 PM , [INFO]: reading from csv
+08/12/2020 09:50:07 PM , [INFO]: PO
+08/12/2020 09:50:07 PM , [INFO]: Picked Up
+08/12/2020 09:50:07 PM , [INFO]: inside first try for reading config
+08/12/2020 09:50:07 PM , [INFO]: reading from csv
+08/12/2020 09:50:07 PM , [INFO]: PRR
+08/12/2020 09:50:07 PM , [INFO]: Pickup Request Received
+08/12/2020 09:51:14 PM , [INFO]: Pro Number formatting started
+08/12/2020 09:51:14 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 09:51:14 PM , [INFO]: inside first try for reading config
+08/12/2020 09:51:14 PM , [INFO]: reading from csv
+08/12/2020 09:51:14 PM , [INFO]: UME
+08/12/2020 09:51:14 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 09:51:14 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format '%m/%d/&Y'
+08/12/2020 09:51:14 PM , [INFO]: inside first try for reading config
+08/12/2020 09:51:14 PM , [INFO]: reading from csv
+08/12/2020 09:51:14 PM , [INFO]: OD
+08/12/2020 09:51:14 PM , [INFO]: Out For Delivery
+08/12/2020 09:51:14 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format '%m/%d/&Y'
+08/12/2020 09:51:14 PM , [INFO]: inside first try for reading config
+08/12/2020 09:51:14 PM , [INFO]: reading from csv
+08/12/2020 09:51:14 PM , [INFO]: MD
+08/12/2020 09:51:14 PM , [INFO]: Manifested
+08/12/2020 09:51:14 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format '%m/%d/&Y'
+08/12/2020 09:51:14 PM , [INFO]: inside first try for reading config
+08/12/2020 09:51:14 PM , [INFO]: reading from csv
+08/12/2020 09:51:14 PM , [INFO]: TA
+08/12/2020 09:51:14 PM , [INFO]: Trailer Arrived
+08/12/2020 09:51:14 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/28/2018' does not match format '%m/%d/&Y'
+08/12/2020 09:51:14 PM , [INFO]: inside first try for reading config
+08/12/2020 09:51:14 PM , [INFO]: reading from csv
+08/12/2020 09:51:14 PM , [INFO]: TD
+08/12/2020 09:51:14 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 09:51:14 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format '%m/%d/&Y'
+08/12/2020 09:51:14 PM , [INFO]: inside first try for reading config
+08/12/2020 09:51:14 PM , [INFO]: reading from csv
+08/12/2020 09:51:14 PM , [INFO]: MD
+08/12/2020 09:51:14 PM , [INFO]: Manifested
+08/12/2020 09:51:14 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format '%m/%d/&Y'
+08/12/2020 09:51:14 PM , [INFO]: inside first try for reading config
+08/12/2020 09:51:14 PM , [INFO]: reading from csv
+08/12/2020 09:51:14 PM , [INFO]: PO
+08/12/2020 09:51:14 PM , [INFO]: Picked Up
+08/12/2020 09:51:14 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/27/2018' does not match format '%m/%d/&Y'
+08/12/2020 09:51:14 PM , [INFO]: inside first try for reading config
+08/12/2020 09:51:14 PM , [INFO]: reading from csv
+08/12/2020 09:51:14 PM , [INFO]: PRR
+08/12/2020 09:51:14 PM , [INFO]: Pickup Request Received
+08/12/2020 09:51:14 PM , [INFO]: There was an error in reading from csv. The error is : time data '02/26/2018' does not match format '%m/%d/&Y'
+08/12/2020 09:51:24 PM , [INFO]: Pro Number formatting started
+08/12/2020 09:51:24 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/12/2020 09:51:24 PM , [INFO]: inside first try for reading config
+08/12/2020 09:51:24 PM , [INFO]: reading from csv
+08/12/2020 09:51:24 PM , [INFO]: UME
+08/12/2020 09:51:24 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/12/2020 09:51:24 PM , [INFO]: inside first try for reading config
+08/12/2020 09:51:24 PM , [INFO]: reading from csv
+08/12/2020 09:51:24 PM , [INFO]: OD
+08/12/2020 09:51:24 PM , [INFO]: Out For Delivery
+08/12/2020 09:51:24 PM , [INFO]: inside first try for reading config
+08/12/2020 09:51:24 PM , [INFO]: reading from csv
+08/12/2020 09:51:24 PM , [INFO]: MD
+08/12/2020 09:51:24 PM , [INFO]: Manifested
+08/12/2020 09:51:24 PM , [INFO]: inside first try for reading config
+08/12/2020 09:51:24 PM , [INFO]: reading from csv
+08/12/2020 09:51:24 PM , [INFO]: TA
+08/12/2020 09:51:24 PM , [INFO]: Trailer Arrived
+08/12/2020 09:51:24 PM , [INFO]: inside first try for reading config
+08/12/2020 09:51:24 PM , [INFO]: reading from csv
+08/12/2020 09:51:24 PM , [INFO]: TD
+08/12/2020 09:51:24 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/12/2020 09:51:24 PM , [INFO]: inside first try for reading config
+08/12/2020 09:51:24 PM , [INFO]: reading from csv
+08/12/2020 09:51:24 PM , [INFO]: MD
+08/12/2020 09:51:24 PM , [INFO]: Manifested
+08/12/2020 09:51:24 PM , [INFO]: inside first try for reading config
+08/12/2020 09:51:24 PM , [INFO]: reading from csv
+08/12/2020 09:51:24 PM , [INFO]: PO
+08/12/2020 09:51:24 PM , [INFO]: Picked Up
+08/12/2020 09:51:24 PM , [INFO]: inside first try for reading config
+08/12/2020 09:51:24 PM , [INFO]: reading from csv
+08/12/2020 09:51:24 PM , [INFO]: PRR
+08/12/2020 09:51:24 PM , [INFO]: Pickup Request Received
+08/13/2020 05:58:09 PM , [INFO]: Pro Number formatting started
+08/13/2020 05:58:09 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/13/2020 05:58:09 PM , [INFO]: inside first try for reading config
+08/13/2020 05:58:09 PM , [INFO]: reading from csv
+08/13/2020 05:58:09 PM , [INFO]: There was an error in reading from csv. The error is : 'Signature'
+08/13/2020 05:58:09 PM , [INFO]: inside first try for reading config
+08/13/2020 05:58:09 PM , [INFO]: reading from csv
+08/13/2020 05:58:09 PM , [INFO]: There was an error in reading from csv. The error is : 'Signature'
+08/13/2020 05:58:09 PM , [INFO]: inside first try for reading config
+08/13/2020 05:58:09 PM , [INFO]: reading from csv
+08/13/2020 05:58:09 PM , [INFO]: There was an error in reading from csv. The error is : 'Signature'
+08/13/2020 05:58:09 PM , [INFO]: inside first try for reading config
+08/13/2020 05:58:09 PM , [INFO]: reading from csv
+08/13/2020 05:58:09 PM , [INFO]: There was an error in reading from csv. The error is : 'Signature'
+08/13/2020 05:58:09 PM , [INFO]: inside first try for reading config
+08/13/2020 05:58:09 PM , [INFO]: reading from csv
+08/13/2020 05:58:09 PM , [INFO]: There was an error in reading from csv. The error is : 'Signature'
+08/13/2020 05:58:09 PM , [INFO]: inside first try for reading config
+08/13/2020 05:58:09 PM , [INFO]: reading from csv
+08/13/2020 05:58:09 PM , [INFO]: There was an error in reading from csv. The error is : 'Signature'
+08/13/2020 05:58:09 PM , [INFO]: inside first try for reading config
+08/13/2020 05:58:09 PM , [INFO]: reading from csv
+08/13/2020 05:58:09 PM , [INFO]: There was an error in reading from csv. The error is : 'Signature'
+08/13/2020 05:58:09 PM , [INFO]: inside first try for reading config
+08/13/2020 05:58:09 PM , [INFO]: reading from csv
+08/13/2020 05:58:09 PM , [INFO]: There was an error in reading from csv. The error is : 'Signature'
+08/13/2020 06:40:49 PM , [INFO]: Pro Number formatting started
+08/13/2020 06:41:02 PM , [INFO]: Pro Number formatting started
+08/13/2020 06:41:02 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/13/2020 06:41:02 PM , [INFO]: inside first try for reading config
+08/13/2020 06:41:02 PM , [INFO]: reading from csv
+08/13/2020 06:41:02 PM , [INFO]: inside first try for reading config
+08/13/2020 06:41:02 PM , [INFO]: reading from csv
+08/13/2020 06:41:02 PM , [INFO]: inside first try for reading config
+08/13/2020 06:41:02 PM , [INFO]: reading from csv
+08/13/2020 06:41:02 PM , [INFO]: inside first try for reading config
+08/13/2020 06:41:02 PM , [INFO]: reading from csv
+08/13/2020 06:41:02 PM , [INFO]: inside first try for reading config
+08/13/2020 06:41:02 PM , [INFO]: reading from csv
+08/13/2020 06:41:02 PM , [INFO]: inside first try for reading config
+08/13/2020 06:41:02 PM , [INFO]: reading from csv
+08/13/2020 06:41:02 PM , [INFO]: inside first try for reading config
+08/13/2020 06:41:02 PM , [INFO]: reading from csv
+08/13/2020 06:41:02 PM , [INFO]: inside first try for reading config
+08/13/2020 06:41:02 PM , [INFO]: reading from csv
+08/13/2020 06:41:33 PM , [INFO]: Pro Number formatting started
+08/13/2020 06:41:33 PM , [INFO]:                                      Shipment Status  ...      Time
+0  DELIVERED; THANK YOU FOR USING DOHRN TRANSFER ...  ...  10:47 AM
+1                                   Out For Delivery  ...  09:11 AM
+2                                         Manifested  ...  09:11 AM
+3                                    Trailer Arrived  ...  02:05 AM
+4              Trailer Departed For Dohrn Mason City  ...  09:30 PM
+5                                         Manifested  ...  09:08 PM
+6                                          Picked Up  ...  03:04 PM
+7                            Pickup Request Received  ...  01:09 PM
+
+[8 rows x 4 columns]
+08/13/2020 06:41:33 PM , [INFO]: inside first try for reading config
+08/13/2020 06:41:33 PM , [INFO]: reading from csv
+08/13/2020 06:41:33 PM , [INFO]: UME
+08/13/2020 06:41:33 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/13/2020 06:41:33 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 06:41:33 PM , [INFO]: inside first try for reading config
+08/13/2020 06:41:33 PM , [INFO]: reading from csv
+08/13/2020 06:41:33 PM , [INFO]: OD
+08/13/2020 06:41:33 PM , [INFO]: Out For Delivery
+08/13/2020 06:41:33 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 06:41:33 PM , [INFO]: inside first try for reading config
+08/13/2020 06:41:33 PM , [INFO]: reading from csv
+08/13/2020 06:41:33 PM , [INFO]: MD
+08/13/2020 06:41:33 PM , [INFO]: Manifested
+08/13/2020 06:41:33 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 06:41:33 PM , [INFO]: inside first try for reading config
+08/13/2020 06:41:33 PM , [INFO]: reading from csv
+08/13/2020 06:41:33 PM , [INFO]: TA
+08/13/2020 06:41:33 PM , [INFO]: Trailer Arrived
+08/13/2020 06:41:33 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 06:41:33 PM , [INFO]: inside first try for reading config
+08/13/2020 06:41:33 PM , [INFO]: reading from csv
+08/13/2020 06:41:33 PM , [INFO]: TD
+08/13/2020 06:41:33 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/13/2020 06:41:33 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 06:41:33 PM , [INFO]: inside first try for reading config
+08/13/2020 06:41:33 PM , [INFO]: reading from csv
+08/13/2020 06:41:33 PM , [INFO]: MD
+08/13/2020 06:41:33 PM , [INFO]: Manifested
+08/13/2020 06:41:33 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 06:41:33 PM , [INFO]: inside first try for reading config
+08/13/2020 06:41:33 PM , [INFO]: reading from csv
+08/13/2020 06:41:33 PM , [INFO]: PO
+08/13/2020 06:41:33 PM , [INFO]: Picked Up
+08/13/2020 06:41:33 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 06:41:33 PM , [INFO]: inside first try for reading config
+08/13/2020 06:41:33 PM , [INFO]: reading from csv
+08/13/2020 06:41:33 PM , [INFO]: PRR
+08/13/2020 06:41:33 PM , [INFO]: Pickup Request Received
+08/13/2020 06:41:33 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 06:55:27 PM , [INFO]: Pro Number formatting started
+08/13/2020 07:01:23 PM , [INFO]: Pro Number formatting started
+08/13/2020 07:02:24 PM , [INFO]: Pro Number formatting started
+08/13/2020 07:04:10 PM , [INFO]: Pro Number formatting started
+08/13/2020 07:06:29 PM , [INFO]: Pro Number formatting started
+08/13/2020 07:07:54 PM , [INFO]: Pro Number formatting started
+08/13/2020 07:09:05 PM , [INFO]: Pro Number formatting started
+08/13/2020 07:10:31 PM , [INFO]: Pro Number formatting started
+08/13/2020 07:14:25 PM , [INFO]: Pro Number formatting started
+08/13/2020 07:29:29 PM , [INFO]: Pro Number formatting started
+08/13/2020 07:31:03 PM , [INFO]: Pro Number formatting started
+08/13/2020 07:43:13 PM , [INFO]: Pro Number formatting started
+08/13/2020 07:46:52 PM , [INFO]: Pro Number formatting started
+08/13/2020 07:46:52 PM , [INFO]: inside first try for reading config
+08/13/2020 07:46:52 PM , [INFO]: reading from csv
+08/13/2020 07:46:52 PM , [INFO]: UME
+08/13/2020 07:46:52 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/13/2020 07:46:52 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:46:52 PM , [INFO]: inside first try for reading config
+08/13/2020 07:46:52 PM , [INFO]: reading from csv
+08/13/2020 07:46:52 PM , [INFO]: OD
+08/13/2020 07:46:52 PM , [INFO]: Out For Delivery
+08/13/2020 07:46:52 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:46:52 PM , [INFO]: inside first try for reading config
+08/13/2020 07:46:52 PM , [INFO]: reading from csv
+08/13/2020 07:46:52 PM , [INFO]: MD
+08/13/2020 07:46:52 PM , [INFO]: Manifested
+08/13/2020 07:46:52 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:46:52 PM , [INFO]: inside first try for reading config
+08/13/2020 07:46:52 PM , [INFO]: reading from csv
+08/13/2020 07:46:52 PM , [INFO]: TA
+08/13/2020 07:46:52 PM , [INFO]: Trailer Arrived
+08/13/2020 07:46:52 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:46:52 PM , [INFO]: inside first try for reading config
+08/13/2020 07:46:52 PM , [INFO]: reading from csv
+08/13/2020 07:46:52 PM , [INFO]: TD
+08/13/2020 07:46:52 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/13/2020 07:46:52 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:46:52 PM , [INFO]: inside first try for reading config
+08/13/2020 07:46:52 PM , [INFO]: reading from csv
+08/13/2020 07:46:52 PM , [INFO]: MD
+08/13/2020 07:46:52 PM , [INFO]: Manifested
+08/13/2020 07:46:52 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:46:52 PM , [INFO]: inside first try for reading config
+08/13/2020 07:46:52 PM , [INFO]: reading from csv
+08/13/2020 07:46:52 PM , [INFO]: PO
+08/13/2020 07:46:52 PM , [INFO]: Picked Up
+08/13/2020 07:46:52 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:46:52 PM , [INFO]: inside first try for reading config
+08/13/2020 07:46:52 PM , [INFO]: reading from csv
+08/13/2020 07:46:52 PM , [INFO]: PRR
+08/13/2020 07:46:52 PM , [INFO]: Pickup Request Received
+08/13/2020 07:46:52 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:51:35 PM , [INFO]: Pro Number formatting started
+08/13/2020 07:51:35 PM , [INFO]: inside first try for reading config
+08/13/2020 07:51:35 PM , [INFO]: reading from csv
+08/13/2020 07:51:35 PM , [INFO]: UME
+08/13/2020 07:51:35 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/13/2020 07:51:35 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:51:35 PM , [INFO]: inside first try for reading config
+08/13/2020 07:51:35 PM , [INFO]: reading from csv
+08/13/2020 07:51:35 PM , [INFO]: OD
+08/13/2020 07:51:35 PM , [INFO]: Out For Delivery
+08/13/2020 07:51:35 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:51:35 PM , [INFO]: inside first try for reading config
+08/13/2020 07:51:35 PM , [INFO]: reading from csv
+08/13/2020 07:51:35 PM , [INFO]: MD
+08/13/2020 07:51:35 PM , [INFO]: Manifested
+08/13/2020 07:51:35 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:51:35 PM , [INFO]: inside first try for reading config
+08/13/2020 07:51:35 PM , [INFO]: reading from csv
+08/13/2020 07:51:35 PM , [INFO]: TA
+08/13/2020 07:51:35 PM , [INFO]: Trailer Arrived
+08/13/2020 07:51:35 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:51:35 PM , [INFO]: inside first try for reading config
+08/13/2020 07:51:35 PM , [INFO]: reading from csv
+08/13/2020 07:51:35 PM , [INFO]: TD
+08/13/2020 07:51:35 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/13/2020 07:51:35 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:51:35 PM , [INFO]: inside first try for reading config
+08/13/2020 07:51:35 PM , [INFO]: reading from csv
+08/13/2020 07:51:35 PM , [INFO]: MD
+08/13/2020 07:51:35 PM , [INFO]: Manifested
+08/13/2020 07:51:35 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:51:35 PM , [INFO]: inside first try for reading config
+08/13/2020 07:51:35 PM , [INFO]: reading from csv
+08/13/2020 07:51:35 PM , [INFO]: PO
+08/13/2020 07:51:35 PM , [INFO]: Picked Up
+08/13/2020 07:51:35 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:51:35 PM , [INFO]: inside first try for reading config
+08/13/2020 07:51:35 PM , [INFO]: reading from csv
+08/13/2020 07:51:35 PM , [INFO]: PRR
+08/13/2020 07:51:35 PM , [INFO]: Pickup Request Received
+08/13/2020 07:51:35 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:54:07 PM , [INFO]: Pro Number formatting started
+08/13/2020 07:54:07 PM , [INFO]: inside first try for reading config
+08/13/2020 07:54:07 PM , [INFO]: reading from csv
+08/13/2020 07:54:07 PM , [INFO]: UME
+08/13/2020 07:54:07 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/13/2020 07:54:07 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:54:07 PM , [INFO]: inside first try for reading config
+08/13/2020 07:54:07 PM , [INFO]: reading from csv
+08/13/2020 07:54:07 PM , [INFO]: OD
+08/13/2020 07:54:07 PM , [INFO]: Out For Delivery
+08/13/2020 07:54:07 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:54:07 PM , [INFO]: inside first try for reading config
+08/13/2020 07:54:07 PM , [INFO]: reading from csv
+08/13/2020 07:54:07 PM , [INFO]: MD
+08/13/2020 07:54:07 PM , [INFO]: Manifested
+08/13/2020 07:54:07 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:54:07 PM , [INFO]: inside first try for reading config
+08/13/2020 07:54:07 PM , [INFO]: reading from csv
+08/13/2020 07:54:07 PM , [INFO]: TA
+08/13/2020 07:54:07 PM , [INFO]: Trailer Arrived
+08/13/2020 07:54:07 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:54:07 PM , [INFO]: inside first try for reading config
+08/13/2020 07:54:07 PM , [INFO]: reading from csv
+08/13/2020 07:54:07 PM , [INFO]: TD
+08/13/2020 07:54:07 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/13/2020 07:54:07 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:54:07 PM , [INFO]: inside first try for reading config
+08/13/2020 07:54:07 PM , [INFO]: reading from csv
+08/13/2020 07:54:07 PM , [INFO]: MD
+08/13/2020 07:54:07 PM , [INFO]: Manifested
+08/13/2020 07:54:07 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:54:07 PM , [INFO]: inside first try for reading config
+08/13/2020 07:54:07 PM , [INFO]: reading from csv
+08/13/2020 07:54:07 PM , [INFO]: PO
+08/13/2020 07:54:07 PM , [INFO]: Picked Up
+08/13/2020 07:54:07 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:54:07 PM , [INFO]: inside first try for reading config
+08/13/2020 07:54:07 PM , [INFO]: reading from csv
+08/13/2020 07:54:07 PM , [INFO]: PRR
+08/13/2020 07:54:07 PM , [INFO]: Pickup Request Received
+08/13/2020 07:54:07 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 07:59:34 PM , [INFO]: Pro Number formatting started
+08/13/2020 07:59:34 PM , [INFO]: inside first try for reading config
+08/13/2020 07:59:34 PM , [INFO]: reading from csv
+08/13/2020 07:59:34 PM , [INFO]: There was an error in reading from csv. The error is : 'numpy.int64' object has no attribute 'str'
+08/13/2020 07:59:34 PM , [INFO]: inside first try for reading config
+08/13/2020 07:59:34 PM , [INFO]: reading from csv
+08/13/2020 07:59:34 PM , [INFO]: There was an error in reading from csv. The error is : 'numpy.int64' object has no attribute 'str'
+08/13/2020 07:59:34 PM , [INFO]: inside first try for reading config
+08/13/2020 07:59:34 PM , [INFO]: reading from csv
+08/13/2020 07:59:34 PM , [INFO]: There was an error in reading from csv. The error is : 'numpy.int64' object has no attribute 'str'
+08/13/2020 07:59:34 PM , [INFO]: inside first try for reading config
+08/13/2020 07:59:34 PM , [INFO]: reading from csv
+08/13/2020 07:59:34 PM , [INFO]: There was an error in reading from csv. The error is : 'numpy.int64' object has no attribute 'str'
+08/13/2020 07:59:34 PM , [INFO]: inside first try for reading config
+08/13/2020 07:59:34 PM , [INFO]: reading from csv
+08/13/2020 07:59:34 PM , [INFO]: There was an error in reading from csv. The error is : 'numpy.int64' object has no attribute 'str'
+08/13/2020 07:59:34 PM , [INFO]: inside first try for reading config
+08/13/2020 07:59:34 PM , [INFO]: reading from csv
+08/13/2020 07:59:34 PM , [INFO]: There was an error in reading from csv. The error is : 'numpy.int64' object has no attribute 'str'
+08/13/2020 07:59:34 PM , [INFO]: inside first try for reading config
+08/13/2020 07:59:34 PM , [INFO]: reading from csv
+08/13/2020 07:59:34 PM , [INFO]: There was an error in reading from csv. The error is : 'numpy.int64' object has no attribute 'str'
+08/13/2020 07:59:34 PM , [INFO]: inside first try for reading config
+08/13/2020 07:59:34 PM , [INFO]: reading from csv
+08/13/2020 07:59:34 PM , [INFO]: There was an error in reading from csv. The error is : 'numpy.int64' object has no attribute 'str'
+08/13/2020 08:06:16 PM , [INFO]: Pro Number formatting started
+08/13/2020 08:06:16 PM , [INFO]: inside first try for reading config
+08/13/2020 08:06:16 PM , [INFO]: reading from csv
+08/13/2020 08:06:16 PM , [INFO]: UME
+08/13/2020 08:06:16 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/13/2020 08:06:16 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:06:16 PM , [INFO]: inside first try for reading config
+08/13/2020 08:06:16 PM , [INFO]: reading from csv
+08/13/2020 08:06:16 PM , [INFO]: OD
+08/13/2020 08:06:16 PM , [INFO]: Out For Delivery
+08/13/2020 08:06:16 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:06:16 PM , [INFO]: inside first try for reading config
+08/13/2020 08:06:16 PM , [INFO]: reading from csv
+08/13/2020 08:06:16 PM , [INFO]: MD
+08/13/2020 08:06:16 PM , [INFO]: Manifested
+08/13/2020 08:06:16 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:06:16 PM , [INFO]: inside first try for reading config
+08/13/2020 08:06:16 PM , [INFO]: reading from csv
+08/13/2020 08:06:16 PM , [INFO]: TA
+08/13/2020 08:06:16 PM , [INFO]: Trailer Arrived
+08/13/2020 08:06:16 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:06:16 PM , [INFO]: inside first try for reading config
+08/13/2020 08:06:16 PM , [INFO]: reading from csv
+08/13/2020 08:06:16 PM , [INFO]: TD
+08/13/2020 08:06:16 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/13/2020 08:06:16 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:06:16 PM , [INFO]: inside first try for reading config
+08/13/2020 08:06:16 PM , [INFO]: reading from csv
+08/13/2020 08:06:16 PM , [INFO]: MD
+08/13/2020 08:06:16 PM , [INFO]: Manifested
+08/13/2020 08:06:16 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:06:16 PM , [INFO]: inside first try for reading config
+08/13/2020 08:06:16 PM , [INFO]: reading from csv
+08/13/2020 08:06:16 PM , [INFO]: PO
+08/13/2020 08:06:16 PM , [INFO]: Picked Up
+08/13/2020 08:06:16 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:06:16 PM , [INFO]: inside first try for reading config
+08/13/2020 08:06:16 PM , [INFO]: reading from csv
+08/13/2020 08:06:16 PM , [INFO]: PRR
+08/13/2020 08:06:16 PM , [INFO]: Pickup Request Received
+08/13/2020 08:06:16 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:09:07 PM , [INFO]: Pro Number formatting started
+08/13/2020 08:09:07 PM , [INFO]: inside first try for reading config
+08/13/2020 08:09:07 PM , [INFO]: reading from csv
+08/13/2020 08:09:07 PM , [INFO]: UME
+08/13/2020 08:09:07 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/13/2020 08:09:07 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:10:35 PM , [INFO]: Pro Number formatting started
+08/13/2020 08:10:35 PM , [INFO]: inside first try for reading config
+08/13/2020 08:10:35 PM , [INFO]: reading from csv
+08/13/2020 08:10:35 PM , [INFO]: UME
+08/13/2020 08:10:35 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/13/2020 08:10:35 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:10:35 PM , [INFO]: inside first try for reading config
+08/13/2020 08:10:35 PM , [INFO]: reading from csv
+08/13/2020 08:10:35 PM , [INFO]: OD
+08/13/2020 08:10:35 PM , [INFO]: Out For Delivery
+08/13/2020 08:10:35 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:10:35 PM , [INFO]: inside first try for reading config
+08/13/2020 08:10:35 PM , [INFO]: reading from csv
+08/13/2020 08:10:35 PM , [INFO]: MD
+08/13/2020 08:10:35 PM , [INFO]: Manifested
+08/13/2020 08:10:35 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:10:35 PM , [INFO]: inside first try for reading config
+08/13/2020 08:10:35 PM , [INFO]: reading from csv
+08/13/2020 08:10:35 PM , [INFO]: TA
+08/13/2020 08:10:35 PM , [INFO]: Trailer Arrived
+08/13/2020 08:10:35 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:10:35 PM , [INFO]: inside first try for reading config
+08/13/2020 08:10:35 PM , [INFO]: reading from csv
+08/13/2020 08:10:35 PM , [INFO]: TD
+08/13/2020 08:10:35 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/13/2020 08:10:35 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:10:35 PM , [INFO]: inside first try for reading config
+08/13/2020 08:10:35 PM , [INFO]: reading from csv
+08/13/2020 08:10:35 PM , [INFO]: MD
+08/13/2020 08:10:35 PM , [INFO]: Manifested
+08/13/2020 08:10:35 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:10:35 PM , [INFO]: inside first try for reading config
+08/13/2020 08:10:35 PM , [INFO]: reading from csv
+08/13/2020 08:10:35 PM , [INFO]: PO
+08/13/2020 08:10:35 PM , [INFO]: Picked Up
+08/13/2020 08:10:35 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:10:35 PM , [INFO]: inside first try for reading config
+08/13/2020 08:10:35 PM , [INFO]: reading from csv
+08/13/2020 08:10:35 PM , [INFO]: PRR
+08/13/2020 08:10:35 PM , [INFO]: Pickup Request Received
+08/13/2020 08:10:35 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:12:18 PM , [INFO]: Pro Number formatting started
+08/13/2020 08:12:18 PM , [INFO]: inside first try for reading config
+08/13/2020 08:12:18 PM , [INFO]: reading from csv
+08/13/2020 08:12:18 PM , [INFO]: UME
+08/13/2020 08:12:18 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/13/2020 08:12:18 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:13:39 PM , [INFO]: Pro Number formatting started
+08/13/2020 08:13:39 PM , [INFO]: inside first try for reading config
+08/13/2020 08:13:39 PM , [INFO]: reading from csv
+08/13/2020 08:13:39 PM , [INFO]: There was an error in reading from csv. The error is : 'numpy.int64' object has no attribute 'str'
+08/13/2020 08:13:41 PM , [INFO]: inside first try for reading config
+08/13/2020 08:13:41 PM , [INFO]: reading from csv
+08/13/2020 08:13:41 PM , [INFO]: There was an error in reading from csv. The error is : 'numpy.int64' object has no attribute 'str'
+08/13/2020 08:13:42 PM , [INFO]: inside first try for reading config
+08/13/2020 08:13:42 PM , [INFO]: reading from csv
+08/13/2020 08:13:42 PM , [INFO]: There was an error in reading from csv. The error is : 'numpy.int64' object has no attribute 'str'
+08/13/2020 08:13:42 PM , [INFO]: inside first try for reading config
+08/13/2020 08:13:42 PM , [INFO]: reading from csv
+08/13/2020 08:13:42 PM , [INFO]: There was an error in reading from csv. The error is : 'numpy.int64' object has no attribute 'str'
+08/13/2020 08:13:43 PM , [INFO]: inside first try for reading config
+08/13/2020 08:13:43 PM , [INFO]: reading from csv
+08/13/2020 08:13:43 PM , [INFO]: There was an error in reading from csv. The error is : 'numpy.int64' object has no attribute 'str'
+08/13/2020 08:13:43 PM , [INFO]: inside first try for reading config
+08/13/2020 08:13:43 PM , [INFO]: reading from csv
+08/13/2020 08:13:43 PM , [INFO]: There was an error in reading from csv. The error is : 'numpy.int64' object has no attribute 'str'
+08/13/2020 08:13:44 PM , [INFO]: inside first try for reading config
+08/13/2020 08:13:44 PM , [INFO]: reading from csv
+08/13/2020 08:13:44 PM , [INFO]: There was an error in reading from csv. The error is : 'numpy.int64' object has no attribute 'str'
+08/13/2020 08:13:44 PM , [INFO]: inside first try for reading config
+08/13/2020 08:13:44 PM , [INFO]: reading from csv
+08/13/2020 08:13:44 PM , [INFO]: There was an error in reading from csv. The error is : 'numpy.int64' object has no attribute 'str'
+08/13/2020 08:14:41 PM , [INFO]: Pro Number formatting started
+08/13/2020 08:14:41 PM , [INFO]: inside first try for reading config
+08/13/2020 08:14:41 PM , [INFO]: reading from csv
+08/13/2020 08:14:41 PM , [INFO]: UME
+08/13/2020 08:14:41 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/13/2020 08:14:41 PM , [INFO]: There was an error in reading from csv. The error is : Object of type 'int64' is not JSON serializable
+08/13/2020 08:15:34 PM , [INFO]: Pro Number formatting started
+08/13/2020 08:15:34 PM , [INFO]: inside first try for reading config
+08/13/2020 08:15:34 PM , [INFO]: reading from csv
+08/13/2020 08:15:34 PM , [INFO]: UME
+08/13/2020 08:15:34 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/13/2020 08:15:36 PM , [INFO]: inside first try for reading config
+08/13/2020 08:15:36 PM , [INFO]: reading from csv
+08/13/2020 08:15:36 PM , [INFO]: OD
+08/13/2020 08:15:36 PM , [INFO]: Out For Delivery
+08/13/2020 08:15:37 PM , [INFO]: inside first try for reading config
+08/13/2020 08:15:37 PM , [INFO]: reading from csv
+08/13/2020 08:15:37 PM , [INFO]: MD
+08/13/2020 08:15:37 PM , [INFO]: Manifested
+08/13/2020 08:15:37 PM , [INFO]: inside first try for reading config
+08/13/2020 08:15:37 PM , [INFO]: reading from csv
+08/13/2020 08:15:37 PM , [INFO]: TA
+08/13/2020 08:15:37 PM , [INFO]: Trailer Arrived
+08/13/2020 08:15:38 PM , [INFO]: inside first try for reading config
+08/13/2020 08:15:38 PM , [INFO]: reading from csv
+08/13/2020 08:15:38 PM , [INFO]: TD
+08/13/2020 08:15:38 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/13/2020 08:15:38 PM , [INFO]: inside first try for reading config
+08/13/2020 08:15:38 PM , [INFO]: reading from csv
+08/13/2020 08:15:38 PM , [INFO]: MD
+08/13/2020 08:15:38 PM , [INFO]: Manifested
+08/13/2020 08:15:39 PM , [INFO]: inside first try for reading config
+08/13/2020 08:15:39 PM , [INFO]: reading from csv
+08/13/2020 08:15:39 PM , [INFO]: PO
+08/13/2020 08:15:39 PM , [INFO]: Picked Up
+08/13/2020 08:15:39 PM , [INFO]: inside first try for reading config
+08/13/2020 08:15:39 PM , [INFO]: reading from csv
+08/13/2020 08:15:39 PM , [INFO]: PRR
+08/13/2020 08:15:39 PM , [INFO]: Pickup Request Received
+08/13/2020 08:16:14 PM , [INFO]: Pro Number formatting started
+08/13/2020 08:16:14 PM , [INFO]: inside first try for reading config
+08/13/2020 08:16:14 PM , [INFO]: reading from csv
+08/13/2020 08:16:14 PM , [INFO]: UME
+08/13/2020 08:16:14 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/13/2020 08:16:16 PM , [INFO]: inside first try for reading config
+08/13/2020 08:16:16 PM , [INFO]: reading from csv
+08/13/2020 08:16:16 PM , [INFO]: OD
+08/13/2020 08:16:16 PM , [INFO]: Out For Delivery
+08/13/2020 08:16:17 PM , [INFO]: inside first try for reading config
+08/13/2020 08:16:17 PM , [INFO]: reading from csv
+08/13/2020 08:16:17 PM , [INFO]: MD
+08/13/2020 08:16:17 PM , [INFO]: Manifested
+08/13/2020 08:16:17 PM , [INFO]: inside first try for reading config
+08/13/2020 08:16:17 PM , [INFO]: reading from csv
+08/13/2020 08:16:17 PM , [INFO]: TA
+08/13/2020 08:16:17 PM , [INFO]: Trailer Arrived
+08/13/2020 08:16:18 PM , [INFO]: inside first try for reading config
+08/13/2020 08:16:18 PM , [INFO]: reading from csv
+08/13/2020 08:16:18 PM , [INFO]: TD
+08/13/2020 08:16:18 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/13/2020 08:16:18 PM , [INFO]: inside first try for reading config
+08/13/2020 08:16:18 PM , [INFO]: reading from csv
+08/13/2020 08:16:18 PM , [INFO]: MD
+08/13/2020 08:16:18 PM , [INFO]: Manifested
+08/13/2020 08:16:18 PM , [INFO]: inside first try for reading config
+08/13/2020 08:16:18 PM , [INFO]: reading from csv
+08/13/2020 08:16:18 PM , [INFO]: PO
+08/13/2020 08:16:18 PM , [INFO]: Picked Up
+08/13/2020 08:16:19 PM , [INFO]: inside first try for reading config
+08/13/2020 08:16:19 PM , [INFO]: reading from csv
+08/13/2020 08:16:19 PM , [INFO]: PRR
+08/13/2020 08:16:19 PM , [INFO]: Pickup Request Received
+08/13/2020 08:17:02 PM , [INFO]: Pro Number formatting started
+08/13/2020 08:17:02 PM , [INFO]: inside first try for reading config
+08/13/2020 08:17:02 PM , [INFO]: reading from csv
+08/13/2020 08:17:02 PM , [INFO]: UME
+08/13/2020 08:17:02 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/13/2020 08:17:03 PM , [INFO]: inside first try for reading config
+08/13/2020 08:17:03 PM , [INFO]: reading from csv
+08/13/2020 08:17:03 PM , [INFO]: OD
+08/13/2020 08:17:03 PM , [INFO]: Out For Delivery
+08/13/2020 08:17:04 PM , [INFO]: inside first try for reading config
+08/13/2020 08:17:04 PM , [INFO]: reading from csv
+08/13/2020 08:17:04 PM , [INFO]: MD
+08/13/2020 08:17:04 PM , [INFO]: Manifested
+08/13/2020 08:17:05 PM , [INFO]: inside first try for reading config
+08/13/2020 08:17:05 PM , [INFO]: reading from csv
+08/13/2020 08:17:05 PM , [INFO]: TA
+08/13/2020 08:17:05 PM , [INFO]: Trailer Arrived
+08/13/2020 08:17:06 PM , [INFO]: inside first try for reading config
+08/13/2020 08:17:06 PM , [INFO]: reading from csv
+08/13/2020 08:17:06 PM , [INFO]: TD
+08/13/2020 08:17:06 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/13/2020 08:17:06 PM , [INFO]: inside first try for reading config
+08/13/2020 08:17:06 PM , [INFO]: reading from csv
+08/13/2020 08:17:06 PM , [INFO]: MD
+08/13/2020 08:17:06 PM , [INFO]: Manifested
+08/13/2020 08:17:06 PM , [INFO]: inside first try for reading config
+08/13/2020 08:17:06 PM , [INFO]: reading from csv
+08/13/2020 08:17:06 PM , [INFO]: PO
+08/13/2020 08:17:06 PM , [INFO]: Picked Up
+08/13/2020 08:17:07 PM , [INFO]: inside first try for reading config
+08/13/2020 08:17:07 PM , [INFO]: reading from csv
+08/13/2020 08:17:07 PM , [INFO]: PRR
+08/13/2020 08:17:07 PM , [INFO]: Pickup Request Received
+08/13/2020 08:20:36 PM , [INFO]: Pro Number formatting started
+08/13/2020 08:20:36 PM , [INFO]: inside first try for reading config
+08/13/2020 08:20:36 PM , [INFO]: reading from csv
+08/13/2020 08:20:36 PM , [INFO]: UME
+08/13/2020 08:20:36 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/13/2020 08:20:36 PM , [INFO]: inside first try for reading config
+08/13/2020 08:20:36 PM , [INFO]: reading from csv
+08/13/2020 08:20:36 PM , [INFO]: OD
+08/13/2020 08:20:36 PM , [INFO]: Out For Delivery
+08/13/2020 08:20:36 PM , [INFO]: inside first try for reading config
+08/13/2020 08:20:36 PM , [INFO]: reading from csv
+08/13/2020 08:20:36 PM , [INFO]: MD
+08/13/2020 08:20:36 PM , [INFO]: Manifested
+08/13/2020 08:20:36 PM , [INFO]: inside first try for reading config
+08/13/2020 08:20:36 PM , [INFO]: reading from csv
+08/13/2020 08:20:36 PM , [INFO]: TA
+08/13/2020 08:20:36 PM , [INFO]: Trailer Arrived
+08/13/2020 08:20:36 PM , [INFO]: inside first try for reading config
+08/13/2020 08:20:36 PM , [INFO]: reading from csv
+08/13/2020 08:20:36 PM , [INFO]: TD
+08/13/2020 08:20:36 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/13/2020 08:20:36 PM , [INFO]: inside first try for reading config
+08/13/2020 08:20:36 PM , [INFO]: reading from csv
+08/13/2020 08:20:36 PM , [INFO]: MD
+08/13/2020 08:20:36 PM , [INFO]: Manifested
+08/13/2020 08:20:36 PM , [INFO]: inside first try for reading config
+08/13/2020 08:20:36 PM , [INFO]: reading from csv
+08/13/2020 08:20:36 PM , [INFO]: PO
+08/13/2020 08:20:36 PM , [INFO]: Picked Up
+08/13/2020 08:20:36 PM , [INFO]: inside first try for reading config
+08/13/2020 08:20:36 PM , [INFO]: reading from csv
+08/13/2020 08:20:36 PM , [INFO]: PRR
+08/13/2020 08:20:36 PM , [INFO]: Pickup Request Received
+08/13/2020 08:22:47 PM , [INFO]: Pro Number formatting started
+08/13/2020 08:22:47 PM , [INFO]: inside first try for reading config
+08/13/2020 08:22:47 PM , [INFO]: reading from csv
+08/13/2020 08:22:47 PM , [INFO]: UME
+08/13/2020 08:22:47 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/13/2020 08:22:47 PM , [INFO]: inside first try for reading config
+08/13/2020 08:22:47 PM , [INFO]: reading from csv
+08/13/2020 08:22:47 PM , [INFO]: OD
+08/13/2020 08:22:47 PM , [INFO]: Out For Delivery
+08/13/2020 08:22:47 PM , [INFO]: inside first try for reading config
+08/13/2020 08:22:47 PM , [INFO]: reading from csv
+08/13/2020 08:22:47 PM , [INFO]: MD
+08/13/2020 08:22:47 PM , [INFO]: Manifested
+08/13/2020 08:22:47 PM , [INFO]: inside first try for reading config
+08/13/2020 08:22:47 PM , [INFO]: reading from csv
+08/13/2020 08:22:47 PM , [INFO]: TA
+08/13/2020 08:22:47 PM , [INFO]: Trailer Arrived
+08/13/2020 08:22:47 PM , [INFO]: inside first try for reading config
+08/13/2020 08:22:47 PM , [INFO]: reading from csv
+08/13/2020 08:22:47 PM , [INFO]: TD
+08/13/2020 08:22:47 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/13/2020 08:22:47 PM , [INFO]: inside first try for reading config
+08/13/2020 08:22:47 PM , [INFO]: reading from csv
+08/13/2020 08:22:47 PM , [INFO]: MD
+08/13/2020 08:22:47 PM , [INFO]: Manifested
+08/13/2020 08:22:47 PM , [INFO]: inside first try for reading config
+08/13/2020 08:22:47 PM , [INFO]: reading from csv
+08/13/2020 08:22:47 PM , [INFO]: PO
+08/13/2020 08:22:47 PM , [INFO]: Picked Up
+08/13/2020 08:22:47 PM , [INFO]: inside first try for reading config
+08/13/2020 08:22:47 PM , [INFO]: reading from csv
+08/13/2020 08:22:47 PM , [INFO]: PRR
+08/13/2020 08:22:47 PM , [INFO]: Pickup Request Received
+08/13/2020 08:23:39 PM , [INFO]: Pro Number formatting started
+08/13/2020 08:23:39 PM , [INFO]: inside first try for reading config
+08/13/2020 08:23:39 PM , [INFO]: reading from csv
+08/13/2020 08:23:39 PM , [INFO]: UME
+08/13/2020 08:23:39 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/13/2020 08:23:39 PM , [INFO]: inside first try for reading config
+08/13/2020 08:23:39 PM , [INFO]: reading from csv
+08/13/2020 08:23:39 PM , [INFO]: OD
+08/13/2020 08:23:39 PM , [INFO]: Out For Delivery
+08/13/2020 08:23:39 PM , [INFO]: inside first try for reading config
+08/13/2020 08:23:39 PM , [INFO]: reading from csv
+08/13/2020 08:23:39 PM , [INFO]: MD
+08/13/2020 08:23:39 PM , [INFO]: Manifested
+08/13/2020 08:23:39 PM , [INFO]: inside first try for reading config
+08/13/2020 08:23:39 PM , [INFO]: reading from csv
+08/13/2020 08:23:39 PM , [INFO]: TA
+08/13/2020 08:23:39 PM , [INFO]: Trailer Arrived
+08/13/2020 08:23:39 PM , [INFO]: inside first try for reading config
+08/13/2020 08:23:39 PM , [INFO]: reading from csv
+08/13/2020 08:23:39 PM , [INFO]: TD
+08/13/2020 08:23:39 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/13/2020 08:23:39 PM , [INFO]: inside first try for reading config
+08/13/2020 08:23:39 PM , [INFO]: reading from csv
+08/13/2020 08:23:39 PM , [INFO]: MD
+08/13/2020 08:23:39 PM , [INFO]: Manifested
+08/13/2020 08:23:39 PM , [INFO]: inside first try for reading config
+08/13/2020 08:23:39 PM , [INFO]: reading from csv
+08/13/2020 08:23:39 PM , [INFO]: PO
+08/13/2020 08:23:39 PM , [INFO]: Picked Up
+08/13/2020 08:23:39 PM , [INFO]: inside first try for reading config
+08/13/2020 08:23:39 PM , [INFO]: reading from csv
+08/13/2020 08:23:39 PM , [INFO]: PRR
+08/13/2020 08:23:39 PM , [INFO]: Pickup Request Received
+08/13/2020 08:29:04 PM , [INFO]: Pro Number formatting started
+08/13/2020 08:29:04 PM , [INFO]: inside first try for reading config
+08/13/2020 08:29:04 PM , [INFO]: reading from csv
+08/13/2020 08:29:04 PM , [INFO]: DLV
+08/13/2020 08:29:04 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/13/2020 08:29:04 PM , [INFO]: inside first try for reading config
+08/13/2020 08:29:04 PM , [INFO]: reading from csv
+08/13/2020 08:29:04 PM , [INFO]: OD
+08/13/2020 08:29:04 PM , [INFO]: Out For Delivery
+08/13/2020 08:29:04 PM , [INFO]: inside first try for reading config
+08/13/2020 08:29:04 PM , [INFO]: reading from csv
+08/13/2020 08:29:04 PM , [INFO]: MD
+08/13/2020 08:29:04 PM , [INFO]: Manifested
+08/13/2020 08:29:04 PM , [INFO]: inside first try for reading config
+08/13/2020 08:29:04 PM , [INFO]: reading from csv
+08/13/2020 08:29:04 PM , [INFO]: TA
+08/13/2020 08:29:04 PM , [INFO]: Trailer Arrived
+08/13/2020 08:29:04 PM , [INFO]: inside first try for reading config
+08/13/2020 08:29:04 PM , [INFO]: reading from csv
+08/13/2020 08:29:04 PM , [INFO]: TD
+08/13/2020 08:29:04 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/13/2020 08:29:04 PM , [INFO]: inside first try for reading config
+08/13/2020 08:29:04 PM , [INFO]: reading from csv
+08/13/2020 08:29:04 PM , [INFO]: MD
+08/13/2020 08:29:04 PM , [INFO]: Manifested
+08/13/2020 08:29:04 PM , [INFO]: inside first try for reading config
+08/13/2020 08:29:04 PM , [INFO]: reading from csv
+08/13/2020 08:29:04 PM , [INFO]: PO
+08/13/2020 08:29:04 PM , [INFO]: Picked Up
+08/13/2020 08:29:04 PM , [INFO]: inside first try for reading config
+08/13/2020 08:29:04 PM , [INFO]: reading from csv
+08/13/2020 08:29:04 PM , [INFO]: PRR
+08/13/2020 08:29:04 PM , [INFO]: Pickup Request Received
+08/13/2020 08:31:19 PM , [INFO]: Pro Number formatting started
+08/13/2020 08:31:19 PM , [INFO]: inside first try for reading config
+08/13/2020 08:31:19 PM , [INFO]: reading from csv
+08/13/2020 08:31:19 PM , [INFO]: DLV
+08/13/2020 08:31:19 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/13/2020 08:31:20 PM , [INFO]: inside first try for reading config
+08/13/2020 08:31:20 PM , [INFO]: reading from csv
+08/13/2020 08:31:20 PM , [INFO]: OD
+08/13/2020 08:31:20 PM , [INFO]: Out For Delivery
+08/13/2020 08:31:21 PM , [INFO]: inside first try for reading config
+08/13/2020 08:31:21 PM , [INFO]: reading from csv
+08/13/2020 08:31:21 PM , [INFO]: MD
+08/13/2020 08:31:21 PM , [INFO]: Manifested
+08/13/2020 08:31:22 PM , [INFO]: inside first try for reading config
+08/13/2020 08:31:22 PM , [INFO]: reading from csv
+08/13/2020 08:31:22 PM , [INFO]: TA
+08/13/2020 08:31:22 PM , [INFO]: Trailer Arrived
+08/13/2020 08:31:23 PM , [INFO]: inside first try for reading config
+08/13/2020 08:31:23 PM , [INFO]: reading from csv
+08/13/2020 08:31:23 PM , [INFO]: TD
+08/13/2020 08:31:23 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/13/2020 08:31:23 PM , [INFO]: inside first try for reading config
+08/13/2020 08:31:23 PM , [INFO]: reading from csv
+08/13/2020 08:31:23 PM , [INFO]: MD
+08/13/2020 08:31:23 PM , [INFO]: Manifested
+08/13/2020 08:31:24 PM , [INFO]: inside first try for reading config
+08/13/2020 08:31:24 PM , [INFO]: reading from csv
+08/13/2020 08:31:24 PM , [INFO]: PO
+08/13/2020 08:31:24 PM , [INFO]: Picked Up
+08/13/2020 08:31:24 PM , [INFO]: inside first try for reading config
+08/13/2020 08:31:24 PM , [INFO]: reading from csv
+08/13/2020 08:31:24 PM , [INFO]: PRR
+08/13/2020 08:31:24 PM , [INFO]: Pickup Request Received

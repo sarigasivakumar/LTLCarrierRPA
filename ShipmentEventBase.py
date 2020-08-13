@@ -6,12 +6,15 @@ class baseInfo:
         "carrierName": None,
         "publisherName":None,
         "customerName":None,
-
+        "signedBy":None,
         "proNumber":None,
-
+        "trailerNumber":None,
+        "currentStatus":None,
         "eventName" :None,
         "eventCode":None,
         "eventDate":None,
+        "quantity": None,
+        "weight":None,
         "shipFrom":None,
         "shipTo":None,
         "pickupDate":None,

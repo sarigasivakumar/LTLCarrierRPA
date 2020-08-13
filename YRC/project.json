@@ -6,7 +6,7 @@
     "Appium.WebDriver": "[4.1.1]",
     "UiPath.Excel.Activities": "[2.8.5]",
     "UiPath.Mail.Activities": "[1.8.5]",
-    "UiPath.Python.Activities": "[1.0.7495.12930]",
+    "UiPath.Python.Activities": "[1.1.6863.33404]",
     "UiPath.System.Activities": "[20.4.0]",
     "UiPath.UIAutomation.Activities": "[20.4.1]",
     "UiPath.WebAPI.Activities": "[1.4.5]"

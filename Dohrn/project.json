@@ -1,19 +1,17 @@
 {
-  "name": "Main",
+  "name": "Dohrn-New",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "Appium.WebDriver": "[4.1.1]",
-    "UiPath.Excel.Activities": "[2.8.5]",
-    "UiPath.Mail.Activities": "[1.8.5]",
-    "UiPath.Python.Activities": "[1.0.7495.12930]",
+    "UiPath.Excel.Activities": "[2.8.6]",
+    "UiPath.Mail.Activities": "[1.8.6]",
+    "UiPath.Python.Activities": "[1.1.6863.33404]",
     "UiPath.System.Activities": "[20.4.0]",
-    "UiPath.UIAutomation.Activities": "[20.4.1]",
-    "UiPath.WebAPI.Activities": "[1.4.5]"
+    "UiPath.UIAutomation.Activities": "[20.4.2]"
   },
   "webServices": [],
   "schemaVersion": "4.0",
-  "studioVersion": "20.4.1.0",
+  "studioVersion": "20.4.3.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
