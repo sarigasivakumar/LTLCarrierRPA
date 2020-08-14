@@ -172,7 +172,7 @@ Select item("NAME”)).ToList()]</InArgument>
                       <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="436.8,92.8" sap2010:WorkflowViewState.IdRef="LogMessage_5" Level="Info" Message="[&quot;Starting process&quot;+item(&quot;NAME&quot;).ToString]" />
                       <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="436.8,319.2" sap2010:WorkflowViewState.IdRef="TryCatch_3">
                         <TryCatch.Try>
-                          <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke Workflow File" sap:VirtualizedContainerService.HintSize="333.6,88" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" UnSafe="False" WorkflowFileName="E:\LTLCarrierRPA\Dohrn\Main.xaml">
+                          <ui:InvokeWorkflowFile ContinueOnError="{x:Null}" DisplayName="Invoke Workflow File" sap:VirtualizedContainerService.HintSize="333.6,88" sap2010:WorkflowViewState.IdRef="InvokeWorkflowFile_2" UnSafe="False" WorkflowFileName="[&quot;..\&quot;+item(&quot;NAME&quot;).ToString.Trim+&quot;\Main.xaml&quot;]">
                             <ui:InvokeWorkflowFile.Arguments>
                               <InArgument x:TypeArguments="x:String" x:Key="TEST_PRO_NUMBERS">[item("TEST_PRO_NUMBERS").ToString]</InArgument>
                               <InArgument x:TypeArguments="x:String" x:Key="API_STRING">[jsonObject("API_STRING")("Value").ToString]</InArgument>

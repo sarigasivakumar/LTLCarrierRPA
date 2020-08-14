@@ -39,6 +39,18 @@
       "TEST_PRO_NUMBERS":"{3205861000}",
       "COMMENTS": "must match the repo names",
       "ACTIVE_STATUS": "Y"
+    },
+    {
+      "NAME": "PittOhio",
+      "URL": "http://works.pittohio.com/mypittohio/Shipping/LTL/TraceRequest",
+      "USERNAME": "",
+      "PASSWORD": "",
+      "CARRIER_CODE": "",
+      "ENABLE_TEST_PRO_NUMBERS":"True",
+      "PRO_NUMBER_PREFIXES":"{}",
+      "TEST_PRO_NUMBERS":"{5030432279}",
+      "COMMENTS": "must match the repo names",
+      "ACTIVE_STATUS": "Y"
     }
   
   ]

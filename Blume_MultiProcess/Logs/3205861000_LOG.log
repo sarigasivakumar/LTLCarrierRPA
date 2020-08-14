@@ -1697,3 +1697,36 @@
 08/13/2020 08:31:24 PM , [INFO]: reading from csv
 08/13/2020 08:31:24 PM , [INFO]: PRR
 08/13/2020 08:31:24 PM , [INFO]: Pickup Request Received
+08/14/2020 07:10:44 PM , [INFO]: Pro Number formatting started
+08/14/2020 07:10:44 PM , [INFO]: inside first try for reading config
+08/14/2020 07:10:44 PM , [INFO]: reading from csv
+08/14/2020 07:10:44 PM , [INFO]: DLV
+08/14/2020 07:10:44 PM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/14/2020 07:10:45 PM , [INFO]: inside first try for reading config
+08/14/2020 07:10:45 PM , [INFO]: reading from csv
+08/14/2020 07:10:45 PM , [INFO]: OD
+08/14/2020 07:10:45 PM , [INFO]: Out For Delivery
+08/14/2020 07:10:46 PM , [INFO]: inside first try for reading config
+08/14/2020 07:10:46 PM , [INFO]: reading from csv
+08/14/2020 07:10:46 PM , [INFO]: MD
+08/14/2020 07:10:46 PM , [INFO]: Manifested
+08/14/2020 07:10:46 PM , [INFO]: inside first try for reading config
+08/14/2020 07:10:46 PM , [INFO]: reading from csv
+08/14/2020 07:10:46 PM , [INFO]: TA
+08/14/2020 07:10:46 PM , [INFO]: Trailer Arrived
+08/14/2020 07:10:47 PM , [INFO]: inside first try for reading config
+08/14/2020 07:10:47 PM , [INFO]: reading from csv
+08/14/2020 07:10:47 PM , [INFO]: TD
+08/14/2020 07:10:47 PM , [INFO]: Trailer Departed For Dohrn Mason City
+08/14/2020 07:10:47 PM , [INFO]: inside first try for reading config
+08/14/2020 07:10:47 PM , [INFO]: reading from csv
+08/14/2020 07:10:47 PM , [INFO]: MD
+08/14/2020 07:10:47 PM , [INFO]: Manifested
+08/14/2020 07:10:49 PM , [INFO]: inside first try for reading config
+08/14/2020 07:10:49 PM , [INFO]: reading from csv
+08/14/2020 07:10:49 PM , [INFO]: PO
+08/14/2020 07:10:49 PM , [INFO]: Picked Up
+08/14/2020 07:10:49 PM , [INFO]: inside first try for reading config
+08/14/2020 07:10:49 PM , [INFO]: reading from csv
+08/14/2020 07:10:49 PM , [INFO]: PRR
+08/14/2020 07:10:49 PM , [INFO]: Pickup Request Received
