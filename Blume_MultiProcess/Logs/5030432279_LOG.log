@@ -4150,3 +4150,32 @@
 08/14/2020 07:11:22 PM , [INFO]: reading from csv
 08/14/2020 07:11:22 PM , [INFO]: PU
 08/14/2020 07:11:22 PM , [INFO]: Arrived at shipper pickup location
+08/14/2020 08:57:59 PM , [INFO]: Pro Number formatting started
+08/14/2020 08:57:59 PM , [INFO]: inside first try for reading config
+08/14/2020 08:57:59 PM , [INFO]: reading from csv
+08/14/2020 08:57:59 PM , [INFO]: DLV
+08/14/2020 08:57:59 PM , [INFO]: Delivered at consignee location
+08/14/2020 08:58:00 PM , [INFO]: inside first try for reading config
+08/14/2020 08:58:00 PM , [INFO]: reading from csv
+08/14/2020 08:58:00 PM , [INFO]: SOD
+08/14/2020 08:58:00 PM , [INFO]: Shipment out for delivery to consignee
+08/14/2020 08:58:01 PM , [INFO]: inside first try for reading config
+08/14/2020 08:58:01 PM , [INFO]: reading from csv
+08/14/2020 08:58:01 PM , [INFO]: SAD
+08/14/2020 08:58:01 PM , [INFO]: Shipment arrived at PITT OHIO destination terminal
+08/14/2020 08:58:03 PM , [INFO]: inside first try for reading config
+08/14/2020 08:58:03 PM , [INFO]: reading from csv
+08/14/2020 08:58:03 PM , [INFO]: UME
+08/14/2020 08:58:03 PM , [INFO]: Shipment
+08/14/2020 08:58:03 PM , [INFO]: inside first try for reading config
+08/14/2020 08:58:03 PM , [INFO]: reading from csv
+08/14/2020 08:58:03 PM , [INFO]: SAO
+08/14/2020 08:58:03 PM , [INFO]: Shipment arrived at PITT OHIO origin terminal
+08/14/2020 08:58:03 PM , [INFO]: inside first try for reading config
+08/14/2020 08:58:03 PM , [INFO]: reading from csv
+08/14/2020 08:58:03 PM , [INFO]: PD
+08/14/2020 08:58:03 PM , [INFO]: Pickup - Departure.
+08/14/2020 08:58:04 PM , [INFO]: inside first try for reading config
+08/14/2020 08:58:04 PM , [INFO]: reading from csv
+08/14/2020 08:58:04 PM , [INFO]: PU
+08/14/2020 08:58:04 PM , [INFO]: Arrived at shipper pickup location

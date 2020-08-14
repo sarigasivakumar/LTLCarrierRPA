@@ -201,7 +201,7 @@ class post:
                     json.dump(postJson, f)
             except Exception as e:
                 logger.info("There was an error in reading from csv. The error is : " + str(e))
-            #kafka_publisher.publish(postJson)
+            kafka_publisher.publish(postJson)
 
 
 def main(pronumberList, cwd, ENV_MODE):
@@ -240,8 +240,8 @@ def main(pronumberList, cwd, ENV_MODE):
 
 
 if __name__ == "__main__":
-    #main(sys.argv[1], sys.argv[2], sys.argv[3])
-    main(['5030432279'], 'E:\LTLCarrierRPA\Blume_MultiProcess\..\PittOhio', "dev")
+    main(sys.argv[1], sys.argv[2], sys.argv[3])
+
 
 
 
