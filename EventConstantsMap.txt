@@ -15,5 +15,14 @@
     "Shipment arrived at PITT OHIO origin terminal":"SAO",
     "Pickup - Departure.":"PD",
     "Arrived at shipper pickup location":"PU",
+    "Delivered":"DLV",
+    "Dispatched from terminal":"DT",
+    "Arrived at destination terminal":"ADT",
+     "Arrived at break terminal":"ABT",
+    "PU added":"PUA",
+    "Dispatched from terminal":"DT",
+
+
+
     "UNMAPPED_Event_Code":"UME"
 }

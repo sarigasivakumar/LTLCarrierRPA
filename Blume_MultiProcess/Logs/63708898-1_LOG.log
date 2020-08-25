@@ -1,0 +1,109 @@
+08/18/2020 03:16:52 PM , [INFO]: Pro Number formatting started
+08/18/2020 03:17:11 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:10:08 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:13:26 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:15:14 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:16:08 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:16:18 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:16:27 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:16:38 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:17:06 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:17:14 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:17:22 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:17:40 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:18:54 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:19:44 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:20:29 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:20:55 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:32:46 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:33:08 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:33:33 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:35:42 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:35:42 PM , [INFO]: inside first try for reading config
+08/18/2020 04:35:42 PM , [INFO]: reading from csv
+08/18/2020 04:36:33 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:36:42 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:36:42 PM , [INFO]: inside first try for reading config
+08/18/2020 04:36:42 PM , [INFO]: reading from csv
+08/18/2020 04:36:59 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:36:59 PM , [INFO]: inside first try for reading config
+08/18/2020 04:36:59 PM , [INFO]: reading from csv
+08/18/2020 04:37:10 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:37:10 PM , [INFO]: inside first try for reading config
+08/18/2020 04:37:10 PM , [INFO]: reading from csv
+08/18/2020 04:47:17 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:47:17 PM , [INFO]: inside first try for reading config
+08/18/2020 04:47:17 PM , [INFO]: reading from csv
+08/18/2020 04:47:17 PM , [INFO]: There was an error in reading from csv. The error is : 'Pickup Date/Time:'
+08/18/2020 04:49:12 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:49:12 PM , [INFO]: inside first try for reading config
+08/18/2020 04:49:12 PM , [INFO]: reading from csv
+08/18/2020 04:49:12 PM , [INFO]: There was an error in reading from csv. The error is : 'Pickup Date/Time:'
+08/18/2020 04:49:52 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:50:33 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:51:39 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:51:39 PM , [INFO]: inside first try for reading config
+08/18/2020 04:51:39 PM , [INFO]: reading from csv
+08/18/2020 04:51:39 PM , [INFO]: There was an error in reading from csv. The error is : time data '08/11/2020' does not match format '%m/%d%Y'
+08/18/2020 04:52:03 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:52:03 PM , [INFO]: inside first try for reading config
+08/18/2020 04:52:03 PM , [INFO]: reading from csv
+08/18/2020 04:52:03 PM , [INFO]: There was an error in reading from csv. The error is : time data '08/11/2020' does not match format '%m/%d%Y'
+08/18/2020 04:52:26 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:52:26 PM , [INFO]: inside first try for reading config
+08/18/2020 04:52:26 PM , [INFO]: reading from csv
+08/18/2020 04:52:26 PM , [INFO]: There was an error in reading from csv. The error is : time data '08/11/2020' does not match format '%m/%d%Y'
+08/18/2020 04:53:08 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:53:08 PM , [INFO]: inside first try for reading config
+08/18/2020 04:53:08 PM , [INFO]: reading from csv
+08/18/2020 04:53:08 PM , [INFO]: There was an error in reading from csv. The error is : time data '08/11/2020' does not match format '%m/%d%Y'
+08/18/2020 04:53:22 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:53:22 PM , [INFO]: inside first try for reading config
+08/18/2020 04:53:22 PM , [INFO]: reading from csv
+08/18/2020 04:53:22 PM , [INFO]: There was an error in reading from csv. The error is : time data '08/11/2020' does not match format '%m/%d%Y'
+08/18/2020 04:53:50 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:53:50 PM , [INFO]: inside first try for reading config
+08/18/2020 04:53:50 PM , [INFO]: reading from csv
+08/18/2020 04:53:50 PM , [INFO]: There was an error in reading from csv. The error is : time data '08/11/2020' does not match format '%m/%d%Y'
+08/18/2020 04:54:07 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:54:07 PM , [INFO]: inside first try for reading config
+08/18/2020 04:54:07 PM , [INFO]: reading from csv
+08/18/2020 04:54:07 PM , [INFO]: There was an error in reading from csv. The error is : time data '08/11/2020' does not match format '%m/%d%Y'
+08/18/2020 04:54:29 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:54:29 PM , [INFO]: inside first try for reading config
+08/18/2020 04:54:29 PM , [INFO]: reading from csv
+08/18/2020 04:54:29 PM , [INFO]: There was an error in reading from csv. The error is : time data '08/11/2020' does not match format '%m/%d%Y'
+08/18/2020 04:54:52 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:54:52 PM , [INFO]: inside first try for reading config
+08/18/2020 04:54:52 PM , [INFO]: reading from csv
+08/18/2020 04:54:52 PM , [INFO]: There was an error in reading from csv. The error is : invalid syntax (<string>, line 19)
+08/18/2020 04:55:31 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:55:32 PM , [INFO]: inside first try for reading config
+08/18/2020 04:55:32 PM , [INFO]: reading from csv
+08/18/2020 04:55:32 PM , [INFO]: There was an error in reading from csv. The error is : invalid syntax (<string>, line 19)
+08/18/2020 04:55:56 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:55:56 PM , [INFO]: inside first try for reading config
+08/18/2020 04:55:56 PM , [INFO]: reading from csv
+08/18/2020 04:55:56 PM , [INFO]: There was an error in reading from csv. The error is : EOL while scanning string literal (<string>, line 18)
+08/18/2020 04:56:22 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:56:22 PM , [INFO]: inside first try for reading config
+08/18/2020 04:56:22 PM , [INFO]: reading from csv
+08/18/2020 04:58:25 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:58:25 PM , [INFO]: inside first try for reading config
+08/18/2020 04:58:25 PM , [INFO]: reading from csv
+08/18/2020 04:59:11 PM , [INFO]: Pro Number formatting started
+08/18/2020 04:59:11 PM , [INFO]: inside first try for reading config
+08/18/2020 04:59:11 PM , [INFO]: reading from csv
+08/18/2020 05:00:34 PM , [INFO]: Pro Number formatting started
+08/18/2020 05:00:34 PM , [INFO]: inside first try for reading config
+08/18/2020 05:00:34 PM , [INFO]: reading from csv
+08/18/2020 05:00:34 PM , [INFO]: There was an error in reading from csv. The error is : name 'i' is not defined
+08/18/2020 05:01:11 PM , [INFO]: Pro Number formatting started
+08/18/2020 05:01:11 PM , [INFO]: inside first try for reading config
+08/18/2020 05:01:11 PM , [INFO]: reading from csv
+08/18/2020 05:03:22 PM , [INFO]: Pro Number formatting started
+08/18/2020 05:03:22 PM , [INFO]: inside first try for reading config
+08/18/2020 05:03:22 PM , [INFO]: reading from csv
+08/18/2020 05:19:42 PM , [INFO]: Pro Number formatting started
+08/18/2020 05:19:42 PM , [INFO]: inside first try for reading config
+08/18/2020 05:19:42 PM , [INFO]: reading from csv

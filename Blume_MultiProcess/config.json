@@ -38,7 +38,7 @@
       "PRO_NUMBER_PREFIXES":"{}",
       "TEST_PRO_NUMBERS":"{3205861000}",
       "COMMENTS": "must match the repo names",
-      "ACTIVE_STATUS": "Y"
+      "ACTIVE_STATUS": "N"
     },
     {
       "NAME": "PittOhio",
@@ -49,6 +49,42 @@
       "ENABLE_TEST_PRO_NUMBERS":"True",
       "PRO_NUMBER_PREFIXES":"{}",
       "TEST_PRO_NUMBERS":"{5030432279}",
+      "COMMENTS": "must match the repo names",
+      "ACTIVE_STATUS": "N"
+    },
+    {
+      "NAME": "SouthEastern Freight Lines",
+      "URL": "https://www.sefl.com/seflWebsite/index.jsp",
+      "USERNAME": "",
+      "PASSWORD": "",
+      "CARRIER_CODE": "",
+      "ENABLE_TEST_PRO_NUMBERS":"True",
+      "PRO_NUMBER_PREFIXES":"{}",
+      "TEST_PRO_NUMBERS":"{63708898-1}",
+      "COMMENTS": "must match the repo names",
+      "ACTIVE_STATUS": "N"
+    },
+	{
+      "NAME": "MidWest Motor Express",
+      "URL": "https://www.mmeinc.com/tracking.php",
+      "USERNAME": "",
+      "PASSWORD": "",
+      "CARRIER_CODE": "MWEC",
+      "ENABLE_TEST_PRO_NUMBERS":"True",
+      "PRO_NUMBER_PREFIXES":"{}",
+      "TEST_PRO_NUMBERS":"{150155697}",
+      "COMMENTS": "must match the repo names",
+      "ACTIVE_STATUS": "N"
+    },
+		{
+      "NAME": "ABF Freight",
+      "URL": "https://arcb.com/tools/tracking.html",
+      "USERNAME": "",
+      "PASSWORD": "",
+      "CARRIER_CODE": "",
+      "ENABLE_TEST_PRO_NUMBERS":"True",
+      "PRO_NUMBER_PREFIXES":"{}",
+      "TEST_PRO_NUMBERS":"{071703571}",
       "COMMENTS": "must match the repo names",
       "ACTIVE_STATUS": "Y"
     }

@@ -1,0 +1,28 @@
+{
+    "DELIVERY DATE: 07/10/2020 - Signed By: Collier":"DLV",
+    "DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY":"DLV",
+    "Out For Delivery":"OD",
+    "Manifested":"MD",
+    "Trailer Arrived":"TA",
+    "Trailer Departed For Dohrn Mason City":"TD",
+    "Manifested":"MD",
+    "Picked Up":"PO",
+    "Pickup Request Received":"PRR",
+    "Delivered at consignee location":"DLV",
+    "Shipment out for delivery to consignee":"SOD",
+    "Shipment arrived at PITT OHIO destination terminal":"SAD",
+    "Shipment in transit to destination terminal":"ST",
+    "Shipment arrived at PITT OHIO origin terminal":"SAO",
+    "Pickup - Departure.":"PD",
+    "Arrived at shipper pickup location":"PU",
+    "Delivered":"DLV",
+    "Dispatched from terminal":"DT",
+    "Arrived at destination terminal":"ADT",
+     "Arrived at break terminal":"ABT",
+    "PU added":"PUA",
+    "Dispatched from terminal":"DT",
+
+
+
+    "UNMAPPED_Event_Code":"UME"
+}

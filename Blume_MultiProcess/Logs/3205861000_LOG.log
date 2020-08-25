@@ -1730,3 +1730,42 @@
 08/14/2020 07:10:49 PM , [INFO]: reading from csv
 08/14/2020 07:10:49 PM , [INFO]: PRR
 08/14/2020 07:10:49 PM , [INFO]: Pickup Request Received
+08/17/2020 10:48:24 AM , [INFO]: Pro Number formatting started
+08/17/2020 10:48:24 AM , [INFO]: inside first try for reading config
+08/17/2020 10:48:24 AM , [INFO]: reading from csv
+08/17/2020 10:48:24 AM , [INFO]: DLV
+08/17/2020 10:48:24 AM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/17/2020 10:49:07 AM , [INFO]: inside first try for reading config
+08/17/2020 10:49:07 AM , [INFO]: reading from csv
+08/17/2020 10:49:07 AM , [INFO]: OD
+08/17/2020 10:49:07 AM , [INFO]: Out For Delivery
+08/17/2020 10:49:08 AM , [INFO]: inside first try for reading config
+08/17/2020 10:49:08 AM , [INFO]: reading from csv
+08/17/2020 10:49:08 AM , [INFO]: MD
+08/17/2020 10:49:08 AM , [INFO]: Manifested
+08/17/2020 10:49:08 AM , [INFO]: inside first try for reading config
+08/17/2020 10:49:08 AM , [INFO]: reading from csv
+08/17/2020 10:49:08 AM , [INFO]: TA
+08/17/2020 10:49:08 AM , [INFO]: Trailer Arrived
+08/17/2020 10:50:27 AM , [INFO]: Pro Number formatting started
+08/17/2020 10:50:27 AM , [INFO]: inside first try for reading config
+08/17/2020 10:50:27 AM , [INFO]: reading from csv
+08/17/2020 10:50:27 AM , [INFO]: DLV
+08/17/2020 10:50:27 AM , [INFO]: DELIVERED; THANK YOU FOR USING DOHRN TRANSFER COMPANY
+08/17/2020 10:57:13 AM , [INFO]: Pro Number formatting started
+08/17/2020 11:16:56 AM , [INFO]: inside first try for reading config
+08/17/2020 11:16:56 AM , [INFO]: reading from csv
+08/17/2020 11:16:56 AM , [INFO]: TD
+08/17/2020 11:16:56 AM , [INFO]: Trailer Departed For Dohrn Mason City
+08/17/2020 11:23:37 AM , [INFO]: inside first try for reading config
+08/17/2020 11:23:37 AM , [INFO]: reading from csv
+08/17/2020 11:23:37 AM , [INFO]: MD
+08/17/2020 11:23:37 AM , [INFO]: Manifested
+08/17/2020 11:23:37 AM , [INFO]: inside first try for reading config
+08/17/2020 11:23:37 AM , [INFO]: reading from csv
+08/17/2020 11:23:37 AM , [INFO]: PO
+08/17/2020 11:23:37 AM , [INFO]: Picked Up
+08/17/2020 11:23:38 AM , [INFO]: inside first try for reading config
+08/17/2020 11:23:38 AM , [INFO]: reading from csv
+08/17/2020 11:23:38 AM , [INFO]: PRR
+08/17/2020 11:23:38 AM , [INFO]: Pickup Request Received
